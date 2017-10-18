@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # This script converts a decoded Game Master to JSON
-# Usage master2json.py game_master.txt game_master.json
+# Usage: master2json.py game_master.txt > output.json
 
 import os.path
 import sys
