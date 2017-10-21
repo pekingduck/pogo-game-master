@@ -4,6 +4,10 @@ GM_REPO=$HOME/src/pogo-game-master/archive
 BIN=$(dirname $0)
 
 GAME_MASTER=$GM_REPO/$($BIN/adb-pull.sh $GM_REPO)
+if [ $? -eq 1 ]; then
+    exit 1
+fi
+
 GAME_MASTER_TXT=$GAME_MASTER.txt
 GAME_MASTER_JSON=$GAME_MASTER.json
 
