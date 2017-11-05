@@ -11437,7 +11437,7 @@ item_templates {
     weight_std_dev: 0.8625
     family_id: FAMILY_BULBASAUR
     candy_to_evolve: 25
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.7
     evolution_branch {
       evolution: IVYSAUR
@@ -11505,7 +11505,7 @@ item_templates {
     weight_std_dev: 1.625
     family_id: FAMILY_BULBASAUR
     candy_to_evolve: 100
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.25
     evolution_branch {
@@ -11572,7 +11572,7 @@ item_templates {
     height_std_dev: 0.25
     weight_std_dev: 12.5
     family_id: FAMILY_BULBASAUR
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.9
   }
@@ -11633,7 +11633,7 @@ item_templates {
     weight_std_dev: 1.0625
     family_id: FAMILY_CHARMANDER
     candy_to_evolve: 25
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.6
     evolution_branch {
       evolution: CHARMELEON
@@ -11700,7 +11700,7 @@ item_templates {
     weight_std_dev: 2.375
     family_id: FAMILY_CHARMANDER
     candy_to_evolve: 100
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1.03
     evolution_branch {
       evolution: CHARIZARD
@@ -11767,7 +11767,7 @@ item_templates {
     height_std_dev: 0.2125
     weight_std_dev: 11.3125
     family_id: FAMILY_CHARMANDER
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.91
   }
@@ -11828,7 +11828,7 @@ item_templates {
     weight_std_dev: 1.125
     family_id: FAMILY_SQUIRTLE
     candy_to_evolve: 25
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.43
     evolution_branch {
       evolution: WARTORTLE
@@ -11895,7 +11895,7 @@ item_templates {
     weight_std_dev: 2.8125
     family_id: FAMILY_SQUIRTLE
     candy_to_evolve: 100
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1
     evolution_branch {
       evolution: BLASTOISE
@@ -11960,7 +11960,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 10.6875
     family_id: FAMILY_SQUIRTLE
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.39
   }
@@ -12017,7 +12017,7 @@ item_templates {
     weight_std_dev: 0.3625
     family_id: FAMILY_CATERPIE
     candy_to_evolve: 12
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_SHOULDER
     model_height: 0.19
     evolution_branch {
@@ -12081,7 +12081,7 @@ item_templates {
     weight_std_dev: 1.2375
     family_id: FAMILY_CATERPIE
     candy_to_evolve: 50
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.7
     evolution_branch {
       evolution: BUTTERFREE
@@ -12148,7 +12148,7 @@ item_templates {
     height_std_dev: 0.1375
     weight_std_dev: 4
     family_id: FAMILY_CATERPIE
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_FLYING
     model_height: 0.95
   }
@@ -12227,7 +12227,7 @@ item_templates {
     weight_std_dev: 0.4
     family_id: FAMILY_WEEDLE
     candy_to_evolve: 12
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_SHOULDER
     model_height: 0.18
     evolution_branch {
@@ -12310,7 +12310,7 @@ item_templates {
     weight_std_dev: 1.25
     family_id: FAMILY_WEEDLE
     candy_to_evolve: 50
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.6
     evolution_branch {
       evolution: BEEDRILL
@@ -12377,7 +12377,7 @@ item_templates {
     height_std_dev: 0.125
     weight_std_dev: 3.6875
     family_id: FAMILY_WEEDLE
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_FLYING
     model_height: 1.28
   }
@@ -12458,7 +12458,7 @@ item_templates {
     weight_std_dev: 0.225
     family_id: FAMILY_PIDGEY
     candy_to_evolve: 12
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_SHOULDER
     model_height: 0.3
     evolution_branch {
@@ -12528,7 +12528,7 @@ item_templates {
     weight_std_dev: 3.75
     family_id: FAMILY_PIDGEY
     candy_to_evolve: 50
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_FLYING
     model_height: 1.74
     evolution_branch {
@@ -12615,7 +12615,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 4.9375
     family_id: FAMILY_PIDGEY
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_FLYING
     model_height: 2.18
   }
@@ -12676,7 +12676,7 @@ item_templates {
     weight_std_dev: 0.4375
     family_id: FAMILY_RATTATA
     candy_to_evolve: 25
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.42
     evolution_branch {
       evolution: RATICATE
@@ -12760,7 +12760,7 @@ item_templates {
     height_std_dev: 0.0875
     weight_std_dev: 2.3125
     family_id: FAMILY_RATTATA
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.7
   }
 }
@@ -12840,7 +12840,7 @@ item_templates {
     weight_std_dev: 0.25
     family_id: FAMILY_SPEAROW
     candy_to_evolve: 50
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_SHOULDER
     model_height: 0.4
     evolution_branch {
@@ -12927,7 +12927,7 @@ item_templates {
     height_std_dev: 0.15
     weight_std_dev: 4.75
     family_id: FAMILY_SPEAROW
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_FLYING
     model_height: 1.5
   }
@@ -12988,7 +12988,7 @@ item_templates {
     weight_std_dev: 0.8625
     family_id: FAMILY_EKANS
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.28
     evolution_branch {
       evolution: ARBOK
@@ -13072,7 +13072,7 @@ item_templates {
     height_std_dev: 0.4375
     weight_std_dev: 8.125
     family_id: FAMILY_EKANS
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.6
   }
@@ -13134,7 +13134,7 @@ item_templates {
     weight_std_dev: 0.75
     family_id: FAMILY_PIKACHU
     candy_to_evolve: 50
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_SHOULDER
     model_height: 0.4
     evolution_branch {
@@ -13219,7 +13219,7 @@ item_templates {
     height_std_dev: 0.1
     weight_std_dev: 3.75
     family_id: FAMILY_PIKACHU
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.83
   }
 }
@@ -13279,7 +13279,7 @@ item_templates {
     weight_std_dev: 1.5
     family_id: FAMILY_SANDSHREW
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.55
     evolution_branch {
       evolution: SANDSLASH
@@ -13363,7 +13363,7 @@ item_templates {
     height_std_dev: 0.125
     weight_std_dev: 3.6875
     family_id: FAMILY_SANDSHREW
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1
   }
 }
@@ -13423,7 +13423,7 @@ item_templates {
     weight_std_dev: 0.875
     family_id: FAMILY_NIDORAN_FEMALE
     candy_to_evolve: 25
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.4
     evolution_branch {
       evolution: NIDORINA
@@ -13509,7 +13509,7 @@ item_templates {
     weight_std_dev: 2.5
     family_id: FAMILY_NIDORAN_FEMALE
     candy_to_evolve: 100
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.7
     evolution_branch {
       evolution: NIDOQUEEN
@@ -13594,7 +13594,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 7.5
     family_id: FAMILY_NIDORAN_FEMALE
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.25
   }
@@ -13674,7 +13674,7 @@ item_templates {
     weight_std_dev: 1.125
     family_id: FAMILY_NIDORAN_MALE
     candy_to_evolve: 25
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.5
     evolution_branch {
       evolution: NIDORINO
@@ -13760,7 +13760,7 @@ item_templates {
     weight_std_dev: 2.4375
     family_id: FAMILY_NIDORAN_MALE
     candy_to_evolve: 100
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.9
     evolution_branch {
       evolution: NIDOKING
@@ -13845,7 +13845,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 7.75
     family_id: FAMILY_NIDORAN_MALE
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.4
   }
@@ -13926,7 +13926,7 @@ item_templates {
     weight_std_dev: 0.9375
     family_id: FAMILY_CLEFAIRY
     candy_to_evolve: 50
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.6
     evolution_branch {
       evolution: CLEFABLE
@@ -14010,7 +14010,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 5
     family_id: FAMILY_CLEFAIRY
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_BIG
     model_height: 1.3
   }
@@ -14071,7 +14071,7 @@ item_templates {
     weight_std_dev: 1.2375
     family_id: FAMILY_VULPIX
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.58
     evolution_branch {
       evolution: NINETALES
@@ -14155,7 +14155,7 @@ item_templates {
     height_std_dev: 0.1375
     weight_std_dev: 2.4875
     family_id: FAMILY_VULPIX
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.11
   }
@@ -14237,7 +14237,7 @@ item_templates {
     weight_std_dev: 0.6875
     family_id: FAMILY_JIGGLYPUFF
     candy_to_evolve: 50
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.56
     evolution_branch {
       evolution: WIGGLYTUFF
@@ -14322,7 +14322,7 @@ item_templates {
     height_std_dev: 0.125
     weight_std_dev: 1.5
     family_id: FAMILY_JIGGLYPUFF
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_BIG
     model_height: 1.3
   }
@@ -14385,7 +14385,7 @@ item_templates {
     weight_std_dev: 0.9375
     family_id: FAMILY_ZUBAT
     candy_to_evolve: 50
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_FLYING
     model_height: 0.85
     evolution_branch {
@@ -14472,7 +14472,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 6.875
     family_id: FAMILY_ZUBAT
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_FLYING
     model_height: 1.95
     evolution_branch {
@@ -14538,7 +14538,7 @@ item_templates {
     weight_std_dev: 0.675
     family_id: FAMILY_ODDISH
     candy_to_evolve: 25
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.5
     evolution_branch {
       evolution: GLOOM
@@ -14606,7 +14606,7 @@ item_templates {
     weight_std_dev: 1.075
     family_id: FAMILY_ODDISH
     candy_to_evolve: 100
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.8
     evolution_branch {
       evolution: VILEPLUME
@@ -14696,7 +14696,7 @@ item_templates {
     height_std_dev: 0.15
     weight_std_dev: 2.325
     family_id: FAMILY_ODDISH
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.2
   }
@@ -14777,7 +14777,7 @@ item_templates {
     weight_std_dev: 0.675
     family_id: FAMILY_PARAS
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.43
     evolution_branch {
       evolution: PARASECT
@@ -14862,7 +14862,7 @@ item_templates {
     height_std_dev: 0.125
     weight_std_dev: 3.6875
     family_id: FAMILY_PARAS
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.97
   }
 }
@@ -14943,7 +14943,7 @@ item_templates {
     weight_std_dev: 3.75
     family_id: FAMILY_VENONAT
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1.42
     evolution_branch {
       evolution: VENOMOTH
@@ -15029,7 +15029,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 1.5625
     family_id: FAMILY_VENONAT
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_FLYING
     model_height: 1.6
   }
@@ -15106,7 +15106,7 @@ item_templates {
     weight_std_dev: 0.1
     family_id: FAMILY_DIGLETT
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.2
     evolution_branch {
       evolution: DUGTRIO
@@ -15187,7 +15187,7 @@ item_templates {
     height_std_dev: 0.0875
     weight_std_dev: 4.1625
     family_id: FAMILY_DIGLETT
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 0.77
   }
@@ -15248,7 +15248,7 @@ item_templates {
     weight_std_dev: 0.525
     family_id: FAMILY_MEOWTH
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.4
     evolution_branch {
       evolution: PERSIAN
@@ -15332,7 +15332,7 @@ item_templates {
     height_std_dev: 0.125
     weight_std_dev: 4
     family_id: FAMILY_MEOWTH
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1.38
   }
 }
@@ -15411,7 +15411,7 @@ item_templates {
     weight_std_dev: 2.45
     family_id: FAMILY_PSYDUCK
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.9
     evolution_branch {
       evolution: GOLDUCK
@@ -15476,7 +15476,7 @@ item_templates {
     height_std_dev: 0.2125
     weight_std_dev: 9.575
     family_id: FAMILY_PSYDUCK
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.4
   }
@@ -15556,7 +15556,7 @@ item_templates {
     weight_std_dev: 3.5
     family_id: FAMILY_MANKEY
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.55
     evolution_branch {
       evolution: PRIMEAPE
@@ -15640,7 +15640,7 @@ item_templates {
     height_std_dev: 0.125
     weight_std_dev: 4
     family_id: FAMILY_MANKEY
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.2
   }
@@ -15720,7 +15720,7 @@ item_templates {
     weight_std_dev: 2.375
     family_id: FAMILY_GROWLITHE
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.7
     evolution_branch {
       evolution: ARCANINE
@@ -15804,7 +15804,7 @@ item_templates {
     height_std_dev: 0.2375
     weight_std_dev: 19.375
     family_id: FAMILY_GROWLITHE
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 2
   }
@@ -15884,7 +15884,7 @@ item_templates {
     weight_std_dev: 1.55
     family_id: FAMILY_POLIWAG
     candy_to_evolve: 25
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.6
     evolution_branch {
       evolution: POLIWHIRL
@@ -15951,7 +15951,7 @@ item_templates {
     weight_std_dev: 2.5
     family_id: FAMILY_POLIWAG
     candy_to_evolve: 100
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.05
     evolution_branch {
@@ -16042,7 +16042,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 6.75
     family_id: FAMILY_POLIWAG
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.42
   }
@@ -16123,7 +16123,7 @@ item_templates {
     weight_std_dev: 2.4375
     family_id: FAMILY_ABRA
     candy_to_evolve: 25
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.77
     evolution_branch {
       evolution: KADABRA
@@ -16209,7 +16209,7 @@ item_templates {
     weight_std_dev: 7.0625
     family_id: FAMILY_ABRA
     candy_to_evolve: 100
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.3
     evolution_branch {
@@ -16294,7 +16294,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 6
     family_id: FAMILY_ABRA
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.45
   }
@@ -16374,7 +16374,7 @@ item_templates {
     weight_std_dev: 2.4375
     family_id: FAMILY_MACHOP
     candy_to_evolve: 25
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.8
     evolution_branch {
       evolution: MACHOKE
@@ -16460,7 +16460,7 @@ item_templates {
     weight_std_dev: 8.8125
     family_id: FAMILY_MACHOP
     candy_to_evolve: 100
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.4
     evolution_branch {
@@ -16526,7 +16526,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 16.25
     family_id: FAMILY_MACHOP
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.5
   }
@@ -16607,7 +16607,7 @@ item_templates {
     weight_std_dev: 0.5
     family_id: FAMILY_BELLSPROUT
     candy_to_evolve: 25
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.55
     evolution_branch {
       evolution: WEEPINBELL
@@ -16695,7 +16695,7 @@ item_templates {
     weight_std_dev: 0.8
     family_id: FAMILY_BELLSPROUT
     candy_to_evolve: 100
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1
     evolution_branch {
@@ -16763,7 +16763,7 @@ item_templates {
     height_std_dev: 0.2125
     weight_std_dev: 1.9375
     family_id: FAMILY_BELLSPROUT
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.48
   }
@@ -16845,7 +16845,7 @@ item_templates {
     weight_std_dev: 5.6875
     family_id: FAMILY_TENTACOOL
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.9
     evolution_branch {
       evolution: TENTACRUEL
@@ -16912,7 +16912,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 6.875
     family_id: FAMILY_TENTACOOL
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.6
   }
@@ -16994,7 +16994,7 @@ item_templates {
     weight_std_dev: 2.5
     family_id: FAMILY_GEODUDE
     candy_to_evolve: 25
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 1.38
     evolution_branch {
       evolution: GRAVELER
@@ -17082,7 +17082,7 @@ item_templates {
     weight_std_dev: 13.125
     family_id: FAMILY_GEODUDE
     candy_to_evolve: 100
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_BIG
     model_height: 1.6
     evolution_branch {
@@ -17149,7 +17149,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 37.5
     family_id: FAMILY_GEODUDE
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_BIG
     model_height: 1.5
   }
@@ -17229,7 +17229,7 @@ item_templates {
     weight_std_dev: 3.75
     family_id: FAMILY_PONYTA
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.97
     evolution_branch {
       evolution: RAPIDASH
@@ -17313,7 +17313,7 @@ item_templates {
     height_std_dev: 0.2125
     weight_std_dev: 11.875
     family_id: FAMILY_PONYTA
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.65
   }
@@ -17394,7 +17394,7 @@ item_templates {
     weight_std_dev: 4.5
     family_id: FAMILY_SLOWPOKE
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1.52
     evolution_branch {
       evolution: SLOWBRO
@@ -17484,7 +17484,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 9.8125
     family_id: FAMILY_SLOWPOKE
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.46
   }
@@ -17547,7 +17547,7 @@ item_templates {
     weight_std_dev: 0.75
     family_id: FAMILY_MAGNEMITE
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_FLYING
     model_height: 0.38
     evolution_branch {
@@ -17634,7 +17634,7 @@ item_templates {
     height_std_dev: 0.125
     weight_std_dev: 7.5
     family_id: FAMILY_MAGNEMITE
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 0.8
   }
@@ -17713,7 +17713,7 @@ item_templates {
     height_std_dev: 0.1
     weight_std_dev: 1.875
     family_id: FAMILY_FARFETCHD
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.75
   }
 }
@@ -17793,7 +17793,7 @@ item_templates {
     weight_std_dev: 4.9
     family_id: FAMILY_DODUO
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1.35
     evolution_branch {
       evolution: DODRIO
@@ -17879,7 +17879,7 @@ item_templates {
     height_std_dev: 0.225
     weight_std_dev: 10.65
     family_id: FAMILY_DODUO
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.8
   }
@@ -17959,7 +17959,7 @@ item_templates {
     weight_std_dev: 11.25
     family_id: FAMILY_SEEL
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.8
     evolution_branch {
       evolution: DEWGONG
@@ -18045,7 +18045,7 @@ item_templates {
     height_std_dev: 0.2125
     weight_std_dev: 15
     family_id: FAMILY_SEEL
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.89
   }
 }
@@ -18124,7 +18124,7 @@ item_templates {
     weight_std_dev: 3.75
     family_id: FAMILY_GRIMER
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.05
     evolution_branch {
@@ -18209,7 +18209,7 @@ item_templates {
     height_std_dev: 0.15
     weight_std_dev: 3.75
     family_id: FAMILY_GRIMER
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.88
   }
@@ -18289,7 +18289,7 @@ item_templates {
     weight_std_dev: 0.5
     family_id: FAMILY_SHELLDER
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.3
     evolution_branch {
       evolution: CLOYSTER
@@ -18375,7 +18375,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 16.5625
     family_id: FAMILY_SHELLDER
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.5
   }
@@ -18457,7 +18457,7 @@ item_templates {
     weight_std_dev: 0.0125
     family_id: FAMILY_GASTLY
     candy_to_evolve: 25
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_FLYING
     model_height: 1
     evolution_branch {
@@ -18527,7 +18527,7 @@ item_templates {
     weight_std_dev: 0.0125
     family_id: FAMILY_GASTLY
     candy_to_evolve: 100
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_FLYING
     model_height: 1.87
     evolution_branch {
@@ -18613,7 +18613,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 5.0625
     family_id: FAMILY_GASTLY
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.5
   }
@@ -18690,7 +18690,7 @@ item_templates {
     height_std_dev: 1.1
     weight_std_dev: 26.25
     family_id: FAMILY_ONIX
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 5.75
     evolution_branch {
@@ -18775,7 +18775,7 @@ item_templates {
     weight_std_dev: 4.05
     family_id: FAMILY_DROWZEE
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 0.9
     evolution_branch {
@@ -18841,7 +18841,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 9.45
     family_id: FAMILY_DROWZEE
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.55
   }
@@ -18902,7 +18902,7 @@ item_templates {
     weight_std_dev: 0.8125
     family_id: FAMILY_KRABBY
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.71
     evolution_branch {
       evolution: KINGLER
@@ -18986,7 +18986,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 7.5
     family_id: FAMILY_KRABBY
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.37
   }
@@ -19066,7 +19066,7 @@ item_templates {
     weight_std_dev: 1.3
     family_id: FAMILY_VOLTORB
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.5
     evolution_branch {
       evolution: ELECTRODE
@@ -19150,7 +19150,7 @@ item_templates {
     height_std_dev: 0.15
     weight_std_dev: 8.325
     family_id: FAMILY_VOLTORB
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.2
   }
@@ -19231,7 +19231,7 @@ item_templates {
     weight_std_dev: 0.3125
     family_id: FAMILY_EXEGGCUTE
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.93
     evolution_branch {
       evolution: EXEGGUTOR
@@ -19316,7 +19316,7 @@ item_templates {
     height_std_dev: 0.25
     weight_std_dev: 15
     family_id: FAMILY_EXEGGCUTE
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.8
   }
@@ -19396,7 +19396,7 @@ item_templates {
     weight_std_dev: 0.8125
     family_id: FAMILY_CUBONE
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.4
     evolution_branch {
       evolution: MAROWAK
@@ -19480,7 +19480,7 @@ item_templates {
     height_std_dev: 0.125
     weight_std_dev: 5.625
     family_id: FAMILY_CUBONE
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1
   }
 }
@@ -19558,7 +19558,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 6.225
     family_id: FAMILY_TYROGUE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.44
   }
@@ -19638,7 +19638,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 6.275
     family_id: FAMILY_TYROGUE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.14
   }
@@ -19716,7 +19716,7 @@ item_templates {
     height_std_dev: 0.15
     weight_std_dev: 8.1875
     family_id: FAMILY_LICKITUNG
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1.2
   }
 }
@@ -19796,7 +19796,7 @@ item_templates {
     weight_std_dev: 0.125
     family_id: FAMILY_KOFFING
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 0.65
     evolution_branch {
@@ -19863,7 +19863,7 @@ item_templates {
     height_std_dev: 0.15
     weight_std_dev: 1.1875
     family_id: FAMILY_KOFFING
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 0.76
   }
@@ -19944,7 +19944,7 @@ item_templates {
     weight_std_dev: 14.375
     family_id: FAMILY_RHYHORN
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1
     evolution_branch {
@@ -20011,7 +20011,7 @@ item_templates {
     height_std_dev: 0.2375
     weight_std_dev: 15
     family_id: FAMILY_RHYHORN
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.85
   }
@@ -20070,7 +20070,7 @@ item_templates {
     height_std_dev: 0.1375
     weight_std_dev: 4.325
     family_id: FAMILY_CHANSEY
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.1
     evolution_branch {
@@ -20153,7 +20153,7 @@ item_templates {
     height_std_dev: 0.125
     weight_std_dev: 4.375
     family_id: FAMILY_TANGELA
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1
   }
 }
@@ -20230,7 +20230,7 @@ item_templates {
     height_std_dev: 0.275
     weight_std_dev: 10
     family_id: FAMILY_KANGASKHAN
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 2.18
   }
@@ -20311,7 +20311,7 @@ item_templates {
     weight_std_dev: 1
     family_id: FAMILY_HORSEA
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.4
     evolution_branch {
       evolution: SEADRA
@@ -20396,7 +20396,7 @@ item_templates {
     height_std_dev: 0.15
     weight_std_dev: 3.125
     family_id: FAMILY_HORSEA
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.2
     evolution_branch {
@@ -20481,7 +20481,7 @@ item_templates {
     weight_std_dev: 1.875
     family_id: FAMILY_GOLDEEN
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.5
     evolution_branch {
       evolution: SEAKING
@@ -20547,7 +20547,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 4.875
     family_id: FAMILY_GOLDEEN
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.36
   }
@@ -20608,7 +20608,7 @@ item_templates {
     weight_std_dev: 4.3125
     family_id: FAMILY_STARYU
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.8
     evolution_branch {
       evolution: STARMIE
@@ -20693,7 +20693,7 @@ item_templates {
     height_std_dev: 0.1375
     weight_std_dev: 10
     family_id: FAMILY_STARYU
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.08
   }
@@ -20772,7 +20772,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 6.8125
     family_id: FAMILY_MR_MIME
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1.3
   }
 }
@@ -20851,7 +20851,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 7
     family_id: FAMILY_SCYTHER
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.5
     evolution_branch {
@@ -20917,7 +20917,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 5.075
     family_id: FAMILY_JYNX
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.4
   }
@@ -20996,7 +20996,7 @@ item_templates {
     height_std_dev: 0.1375
     weight_std_dev: 3.75
     family_id: FAMILY_ELECTABUZZ
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1.2
   }
 }
@@ -21074,7 +21074,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 5.5625
     family_id: FAMILY_MAGMAR
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.35
   }
@@ -21152,7 +21152,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 6.875
     family_id: FAMILY_PINSIR
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.4
   }
@@ -21211,7 +21211,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 11.05
     family_id: FAMILY_TAUROS
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.4
   }
@@ -21287,7 +21287,7 @@ item_templates {
     weight_std_dev: 1.25
     family_id: FAMILY_MAGIKARP
     candy_to_evolve: 400
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.85
     evolution_branch {
       evolution: GYARADOS
@@ -21354,7 +21354,7 @@ item_templates {
     height_std_dev: 0.8125
     weight_std_dev: 29.375
     family_id: FAMILY_MAGIKARP
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_BIG
     model_height: 5.56
   }
@@ -21433,7 +21433,7 @@ item_templates {
     height_std_dev: 0.3125
     weight_std_dev: 27.5
     family_id: FAMILY_LAPRAS
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 2.57
   }
@@ -21507,7 +21507,7 @@ item_templates {
     height_std_dev: 0.0375
     weight_std_dev: 0.5
     family_id: FAMILY_DITTO
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.33
   }
 }
@@ -21585,7 +21585,7 @@ item_templates {
     weight_std_dev: 0.8125
     family_id: FAMILY_EEVEE
     candy_to_evolve: 25
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_SHOULDER
     model_height: 0.3
     evolution_branch {
@@ -21685,7 +21685,7 @@ item_templates {
     height_std_dev: 0.125
     weight_std_dev: 3.625
     family_id: FAMILY_EEVEE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.89
   }
 }
@@ -21765,7 +21765,7 @@ item_templates {
     height_std_dev: 0.1
     weight_std_dev: 3.0625
     family_id: FAMILY_EEVEE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.8
   }
 }
@@ -21845,7 +21845,7 @@ item_templates {
     height_std_dev: 0.1125
     weight_std_dev: 3.125
     family_id: FAMILY_EEVEE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1.27
   }
 }
@@ -21923,7 +21923,7 @@ item_templates {
     height_std_dev: 0.1
     weight_std_dev: 4.5625
     family_id: FAMILY_PORYGON
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 0.8
     evolution_branch {
@@ -21990,7 +21990,7 @@ item_templates {
     weight_std_dev: 0.9375
     family_id: FAMILY_OMANYTE
     candy_to_evolve: 50
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.4
     evolution_branch {
       evolution: OMASTAR
@@ -22056,7 +22056,7 @@ item_templates {
     height_std_dev: 0.125
     weight_std_dev: 4.375
     family_id: FAMILY_OMANYTE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1
   }
@@ -22118,7 +22118,7 @@ item_templates {
     weight_std_dev: 1.4375
     family_id: FAMILY_KABUTO
     candy_to_evolve: 50
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.5
     evolution_branch {
       evolution: KABUTOPS
@@ -22184,7 +22184,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 5.0625
     family_id: FAMILY_KABUTO
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.25
   }
@@ -22245,7 +22245,7 @@ item_templates {
     height_std_dev: 0.225
     weight_std_dev: 7.375
     family_id: FAMILY_AERODACTYL
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 3.7
   }
@@ -22304,7 +22304,7 @@ item_templates {
     height_std_dev: 0.2625
     weight_std_dev: 57.5
     family_id: FAMILY_SNORLAX
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 2
   }
@@ -22365,7 +22365,7 @@ item_templates {
     height_std_dev: 0.2125
     weight_std_dev: 6.925
     family_id: FAMILY_ARTICUNO
-    km_buddy_distance: 20
+    km_buddy_distance: 10
     buddy_size: BUDDY_FLYING
     model_height: 2.6
   }
@@ -22426,7 +22426,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 6.575
     family_id: FAMILY_ZAPDOS
-    km_buddy_distance: 20
+    km_buddy_distance: 10
     buddy_size: BUDDY_FLYING
     model_height: 2.36
   }
@@ -22487,7 +22487,7 @@ item_templates {
     height_std_dev: 0.25
     weight_std_dev: 7.5
     family_id: FAMILY_MOLTRES
-    km_buddy_distance: 20
+    km_buddy_distance: 10
     buddy_size: BUDDY_FLYING
     model_height: 3
   }
@@ -22548,7 +22548,7 @@ item_templates {
     weight_std_dev: 0.4125
     family_id: FAMILY_DRATINI
     candy_to_evolve: 25
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.78
     evolution_branch {
       evolution: DRAGONAIR
@@ -22615,7 +22615,7 @@ item_templates {
     weight_std_dev: 2.0625
     family_id: FAMILY_DRATINI
     candy_to_evolve: 100
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.95
     evolution_branch {
@@ -22683,7 +22683,7 @@ item_templates {
     height_std_dev: 0.275
     weight_std_dev: 26.25
     family_id: FAMILY_DRATINI
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 2.28
   }
@@ -22744,7 +22744,7 @@ item_templates {
     height_std_dev: 0.25
     weight_std_dev: 15.25
     family_id: FAMILY_MEWTWO
-    km_buddy_distance: 20
+    km_buddy_distance: 10
     buddy_size: BUDDY_BIG
     model_height: 2
   }
@@ -22808,7 +22808,7 @@ item_templates {
     height_std_dev: 0.05
     weight_std_dev: 0.5
     family_id: FAMILY_MEW
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.45
   }
 }
@@ -22868,7 +22868,7 @@ item_templates {
     weight_std_dev: 0.8
     family_id: FAMILY_CHIKORITA
     candy_to_evolve: 25
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.55
     evolution_branch {
       evolution: BAYLEEF
@@ -22935,7 +22935,7 @@ item_templates {
     weight_std_dev: 1.975
     family_id: FAMILY_CHIKORITA
     candy_to_evolve: 100
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1.3
     evolution_branch {
       evolution: MEGANIUM
@@ -23000,7 +23000,7 @@ item_templates {
     height_std_dev: 0.225
     weight_std_dev: 12.5625
     family_id: FAMILY_CHIKORITA
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.75
   }
@@ -23061,7 +23061,7 @@ item_templates {
     weight_std_dev: 0.9875
     family_id: FAMILY_CYNDAQUIL
     candy_to_evolve: 25
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.46
     evolution_branch {
       evolution: QUILAVA
@@ -23128,7 +23128,7 @@ item_templates {
     weight_std_dev: 2.375
     family_id: FAMILY_CYNDAQUIL
     candy_to_evolve: 100
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1.06
     evolution_branch {
       evolution: TYPHLOSION
@@ -23193,7 +23193,7 @@ item_templates {
     height_std_dev: 0.2125
     weight_std_dev: 9.9375
     family_id: FAMILY_CYNDAQUIL
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.69
   }
@@ -23254,7 +23254,7 @@ item_templates {
     weight_std_dev: 1.1875
     family_id: FAMILY_TOTODILE
     candy_to_evolve: 25
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.57
     evolution_branch {
       evolution: CROCONAW
@@ -23321,7 +23321,7 @@ item_templates {
     weight_std_dev: 3.125
     family_id: FAMILY_TOTODILE
     candy_to_evolve: 100
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1.05
     evolution_branch {
       evolution: FERALIGATR
@@ -23386,7 +23386,7 @@ item_templates {
     height_std_dev: 0.28875
     weight_std_dev: 11.1
     family_id: FAMILY_TOTODILE
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 2.05
   }
@@ -23447,7 +23447,7 @@ item_templates {
     weight_std_dev: 0.75
     family_id: FAMILY_SENTRET
     candy_to_evolve: 25
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.72
     evolution_branch {
       evolution: FURRET
@@ -23512,7 +23512,7 @@ item_templates {
     height_std_dev: 0.225
     weight_std_dev: 4.0625
     family_id: FAMILY_SENTRET
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.83
   }
 }
@@ -23573,7 +23573,7 @@ item_templates {
     weight_std_dev: 2.65
     family_id: FAMILY_HOOTHOOT
     candy_to_evolve: 50
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.7
     evolution_branch {
       evolution: NOCTOWL
@@ -23640,7 +23640,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 5.1
     family_id: FAMILY_HOOTHOOT
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_FLYING
     model_height: 1.64
   }
@@ -23703,7 +23703,7 @@ item_templates {
     weight_std_dev: 1.35
     family_id: FAMILY_LEDYBA
     candy_to_evolve: 25
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_FLYING
     model_height: 1.18
     evolution_branch {
@@ -23771,7 +23771,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 4.45
     family_id: FAMILY_LEDYBA
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_FLYING
     model_height: 1.4
   }
@@ -23833,7 +23833,7 @@ item_templates {
     weight_std_dev: 1.0625
     family_id: FAMILY_SPINARAK
     candy_to_evolve: 50
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.52
     evolution_branch {
       evolution: ARIADOS
@@ -23899,7 +23899,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 4.1875
     family_id: FAMILY_SPINARAK
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 1.03
   }
 }
@@ -23962,7 +23962,7 @@ item_templates {
     height_std_dev: 0.225
     weight_std_dev: 9.375
     family_id: FAMILY_ZUBAT
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_FLYING
     model_height: 2.65
   }
@@ -24025,7 +24025,7 @@ item_templates {
     weight_std_dev: 1.5
     family_id: FAMILY_CHINCHOU
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.6
     evolution_branch {
       evolution: LANTURN
@@ -24092,7 +24092,7 @@ item_templates {
     height_std_dev: 0.14875
     weight_std_dev: 2.8125
     family_id: FAMILY_CHINCHOU
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.4
   }
@@ -24151,7 +24151,7 @@ item_templates {
     weight_std_dev: 0.25
     family_id: FAMILY_PIKACHU
     candy_to_evolve: 25
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_BABY
     model_height: 0.37
     evolution_branch {
@@ -24215,7 +24215,7 @@ item_templates {
     weight_std_dev: 0.375
     family_id: FAMILY_CLEFAIRY
     candy_to_evolve: 25
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     buddy_size: BUDDY_BABY
     model_height: 0.3
     evolution_branch {
@@ -24281,7 +24281,7 @@ item_templates {
     weight_std_dev: 0.125
     family_id: FAMILY_JIGGLYPUFF
     candy_to_evolve: 25
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.33
     evolution_branch {
       evolution: JIGGLYPUFF
@@ -24344,7 +24344,7 @@ item_templates {
     weight_std_dev: 0.1875
     family_id: FAMILY_TOGEPI
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BABY
     model_height: 0.3
     evolution_branch {
@@ -24412,7 +24412,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 0.4
     family_id: FAMILY_TOGEPI
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.6
   }
 }
@@ -24473,7 +24473,7 @@ item_templates {
     weight_std_dev: 0.25
     family_id: FAMILY_NATU
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_SHOULDER
     model_height: 0.2
     evolution_branch {
@@ -24541,7 +24541,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 1.875
     family_id: FAMILY_NATU
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_FLYING
     model_height: 1.65
   }
@@ -24602,7 +24602,7 @@ item_templates {
     weight_std_dev: 0.975
     family_id: FAMILY_MAREEP
     candy_to_evolve: 25
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.6
     evolution_branch {
       evolution: FLAAFFY
@@ -24669,7 +24669,7 @@ item_templates {
     weight_std_dev: 1.6625
     family_id: FAMILY_MAREEP
     candy_to_evolve: 100
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.8
     evolution_branch {
       evolution: AMPHAROS
@@ -24734,7 +24734,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 7.6875
     family_id: FAMILY_MAREEP
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.48
   }
@@ -24796,7 +24796,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 0.725
     family_id: FAMILY_ODDISH
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.4
   }
 }
@@ -24857,7 +24857,7 @@ item_templates {
     weight_std_dev: 1.0625
     family_id: FAMILY_MARILL
     candy_to_evolve: 25
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.41
     evolution_branch {
       evolution: AZUMARILL
@@ -24923,7 +24923,7 @@ item_templates {
     height_std_dev: 0.09875
     weight_std_dev: 3.5625
     family_id: FAMILY_MARILL
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.72
   }
 }
@@ -24979,7 +24979,7 @@ item_templates {
     height_std_dev: 0.14875
     weight_std_dev: 4.75
     family_id: FAMILY_SUDOWOODO
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1.2
   }
 }
@@ -25040,7 +25040,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 4.2375
     family_id: FAMILY_POLIWAG
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1.1
   }
 }
@@ -25102,7 +25102,7 @@ item_templates {
     weight_std_dev: 0.0625
     family_id: FAMILY_HOPPIP
     candy_to_evolve: 25
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_FLYING
     model_height: 0.82
     evolution_branch {
@@ -25172,7 +25172,7 @@ item_templates {
     weight_std_dev: 0.125
     family_id: FAMILY_HOPPIP
     candy_to_evolve: 100
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_FLYING
     model_height: 0.68
     evolution_branch {
@@ -25240,7 +25240,7 @@ item_templates {
     height_std_dev: 0.09875
     weight_std_dev: 0.375
     family_id: FAMILY_HOPPIP
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_FLYING
     model_height: 0.75
   }
@@ -25299,7 +25299,7 @@ item_templates {
     height_std_dev: 0.09875
     weight_std_dev: 1.4375
     family_id: FAMILY_AIPOM
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.8
   }
 }
@@ -25359,7 +25359,7 @@ item_templates {
     weight_std_dev: 0.225
     family_id: FAMILY_SUNKERN
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_SHOULDER
     model_height: 0.3
     evolution_branch {
@@ -25426,7 +25426,7 @@ item_templates {
     height_std_dev: 0.09875
     weight_std_dev: 1.0625
     family_id: FAMILY_SUNKERN
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.76
   }
 }
@@ -25486,7 +25486,7 @@ item_templates {
     height_std_dev: 0.14875
     weight_std_dev: 4.75
     family_id: FAMILY_YANMA
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1.13
   }
 }
@@ -25547,7 +25547,7 @@ item_templates {
     weight_std_dev: 1.0625
     family_id: FAMILY_WOOPER
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.4
     evolution_branch {
       evolution: QUAGSIRE
@@ -25613,7 +25613,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 9.375
     family_id: FAMILY_WOOPER
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.4
   }
@@ -25674,7 +25674,7 @@ item_templates {
     height_std_dev: 0.11125
     weight_std_dev: 3.3125
     family_id: FAMILY_EEVEE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.76
   }
 }
@@ -25733,7 +25733,7 @@ item_templates {
     height_std_dev: 0.12375
     weight_std_dev: 3.375
     family_id: FAMILY_EEVEE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1
   }
 }
@@ -25792,7 +25792,7 @@ item_templates {
     height_std_dev: 0.06375
     weight_std_dev: 0.2625
     family_id: FAMILY_MURKROW
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_SHOULDER
     model_height: 0.5
   }
@@ -25854,7 +25854,7 @@ item_templates {
     height_std_dev: 0.25125
     weight_std_dev: 9.9375
     family_id: FAMILY_SLOWPOKE
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 2
   }
@@ -25932,7 +25932,7 @@ item_templates {
     height_std_dev: 0.08875
     weight_std_dev: 0.125
     family_id: FAMILY_MISDREAVUS
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_FLYING
     model_height: 0.63
   }
@@ -26007,7 +26007,7 @@ item_templates {
     height_std_dev: 0.06375
     weight_std_dev: 0.625
     family_id: FAMILY_UNOWN
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.5
   }
 }
@@ -26081,7 +26081,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 3.5625
     family_id: FAMILY_WOBBUFFET
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.3
   }
@@ -26159,7 +26159,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 5.1875
     family_id: FAMILY_GIRAFARIG
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.5
   }
@@ -26238,7 +26238,7 @@ item_templates {
     weight_std_dev: 0.9
     family_id: FAMILY_PINECO
     candy_to_evolve: 50
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.6
     evolution_branch {
       evolution: FORRETRESS
@@ -26323,7 +26323,7 @@ item_templates {
     height_std_dev: 0.14875
     weight_std_dev: 15.725
     family_id: FAMILY_PINECO
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.2
   }
@@ -26400,7 +26400,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 1.75
     family_id: FAMILY_DUNSPARCE
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1.5
   }
 }
@@ -26478,7 +26478,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 8.1
     family_id: FAMILY_GLIGAR
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1.07
   }
 }
@@ -26556,7 +26556,7 @@ item_templates {
     height_std_dev: 1.14875
     weight_std_dev: 50
     family_id: FAMILY_ONIX
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 7.26
   }
@@ -26635,7 +26635,7 @@ item_templates {
     weight_std_dev: 0.975
     family_id: FAMILY_SNUBBULL
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.66
     evolution_branch {
       evolution: GRANBULL
@@ -26718,7 +26718,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 6.0875
     family_id: FAMILY_SNUBBULL
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.4
   }
@@ -26797,7 +26797,7 @@ item_templates {
     height_std_dev: 0.06375
     weight_std_dev: 0.4875
     family_id: FAMILY_QWILFISH
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.5
   }
 }
@@ -26877,7 +26877,7 @@ item_templates {
     height_std_dev: 0.25125
     weight_std_dev: 15.625
     family_id: FAMILY_SCYTHER
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.91
   }
@@ -26955,7 +26955,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 2.5625
     family_id: FAMILY_SHUCKLE
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.6
   }
 }
@@ -27032,7 +27032,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 6.75
     family_id: FAMILY_HERACROSS
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.5
   }
@@ -27110,7 +27110,7 @@ item_templates {
     height_std_dev: 0.11125
     weight_std_dev: 3.5
     family_id: FAMILY_SNEASEL
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.8
   }
 }
@@ -27188,7 +27188,7 @@ item_templates {
     weight_std_dev: 1.1
     family_id: FAMILY_TEDDIURSA
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.6
     evolution_branch {
       evolution: URSARING
@@ -27271,7 +27271,7 @@ item_templates {
     height_std_dev: 0.225
     weight_std_dev: 15.725
     family_id: FAMILY_TEDDIURSA
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.8
   }
@@ -27350,7 +27350,7 @@ item_templates {
     weight_std_dev: 4.375
     family_id: FAMILY_SLUGMA
     candy_to_evolve: 50
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.66
     evolution_branch {
       evolution: MAGCARGO
@@ -27434,7 +27434,7 @@ item_templates {
     height_std_dev: 0.09875
     weight_std_dev: 6.875
     family_id: FAMILY_SLUGMA
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.78
   }
 }
@@ -27513,7 +27513,7 @@ item_templates {
     weight_std_dev: 0.8125
     family_id: FAMILY_SWINUB
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.4
     evolution_branch {
       evolution: PILOSWINE
@@ -27597,7 +27597,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 6.975
     family_id: FAMILY_SWINUB
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.1
   }
@@ -27674,7 +27674,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 0.625
     family_id: FAMILY_CORSOLA
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.6
   }
 }
@@ -27753,7 +27753,7 @@ item_templates {
     weight_std_dev: 1.5
     family_id: FAMILY_REMORAID
     candy_to_evolve: 50
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.55
     evolution_branch {
       evolution: OCTILLERY
@@ -27836,7 +27836,7 @@ item_templates {
     height_std_dev: 0.11125
     weight_std_dev: 3.5625
     family_id: FAMILY_REMORAID
-    km_buddy_distance: 1
+    km_buddy_distance: 0.5
     model_height: 0.92
   }
 }
@@ -27913,7 +27913,7 @@ item_templates {
     height_std_dev: 0.11125
     weight_std_dev: 2
     family_id: FAMILY_DELIBIRD
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.9
   }
 }
@@ -27991,7 +27991,7 @@ item_templates {
     height_std_dev: 0.26375
     weight_std_dev: 27.5
     family_id: FAMILY_MANTINE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 2.1
   }
@@ -28070,7 +28070,7 @@ item_templates {
     height_std_dev: 0.2125
     weight_std_dev: 6.3125
     family_id: FAMILY_SKARMORY
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 1.84
   }
@@ -28150,7 +28150,7 @@ item_templates {
     weight_std_dev: 1.35
     family_id: FAMILY_HOUNDOUR
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.6
     evolution_branch {
       evolution: HOUNDOOM
@@ -28234,7 +28234,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 4.375
     family_id: FAMILY_HOUNDOUR
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 1.25
   }
 }
@@ -28315,7 +28315,7 @@ item_templates {
     height_std_dev: 0.225
     weight_std_dev: 19
     family_id: FAMILY_HORSEA
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.8
   }
@@ -28393,7 +28393,7 @@ item_templates {
     weight_std_dev: 4.1875
     family_id: FAMILY_PHANPY
     candy_to_evolve: 50
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.5
     evolution_branch {
       evolution: DONPHAN
@@ -28476,7 +28476,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 15
     family_id: FAMILY_PHANPY
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.02
   }
@@ -28557,7 +28557,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 4.0625
     family_id: FAMILY_PORYGON
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.61
   }
 }
@@ -28633,7 +28633,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 8.9
     family_id: FAMILY_STANTLER
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.4
   }
@@ -28707,7 +28707,7 @@ item_templates {
     height_std_dev: 0.14875
     weight_std_dev: 7.25
     family_id: FAMILY_SMEARGLE
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.2
   }
@@ -28787,7 +28787,7 @@ item_templates {
     weight_std_dev: 2.625
     family_id: FAMILY_TYROGUE
     candy_to_evolve: 25
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.7
     evolution_branch {
       evolution: HITMONLEE
@@ -28876,7 +28876,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 6
     family_id: FAMILY_TYROGUE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1.3
   }
 }
@@ -28954,7 +28954,7 @@ item_templates {
     weight_std_dev: 0.75
     family_id: FAMILY_JYNX
     candy_to_evolve: 25
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BABY
     model_height: 0.48
     evolution_branch {
@@ -29036,7 +29036,7 @@ item_templates {
     weight_std_dev: 2.9375
     family_id: FAMILY_ELECTABUZZ
     candy_to_evolve: 25
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BABY
     model_height: 0.6
     evolution_branch {
@@ -29118,7 +29118,7 @@ item_templates {
     weight_std_dev: 2.675
     family_id: FAMILY_MAGMAR
     candy_to_evolve: 25
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BABY
     model_height: 0.7
     evolution_branch {
@@ -29199,7 +29199,7 @@ item_templates {
     height_std_dev: 0.14875
     weight_std_dev: 9.4375
     family_id: FAMILY_MILTANK
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.2
   }
@@ -29277,7 +29277,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 5.85
     family_id: FAMILY_CHANSEY
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.5
   }
@@ -29355,7 +29355,7 @@ item_templates {
     height_std_dev: 0.23875
     weight_std_dev: 22.25
     family_id: FAMILY_RAIKOU
-    km_buddy_distance: 20
+    km_buddy_distance: 10
     buddy_size: BUDDY_BIG
     model_height: 1.8
   }
@@ -29433,7 +29433,7 @@ item_templates {
     height_std_dev: 0.26375
     weight_std_dev: 24.75
     family_id: FAMILY_ENTEI
-    km_buddy_distance: 20
+    km_buddy_distance: 10
     buddy_size: BUDDY_BIG
     model_height: 2.1
   }
@@ -29512,7 +29512,7 @@ item_templates {
     height_std_dev: 0.25125
     weight_std_dev: 23.375
     family_id: FAMILY_SUICUNE
-    km_buddy_distance: 20
+    km_buddy_distance: 10
     buddy_size: BUDDY_BIG
     model_height: 2.1
   }
@@ -29593,7 +29593,7 @@ item_templates {
     weight_std_dev: 9
     family_id: FAMILY_LARVITAR
     candy_to_evolve: 25
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.61
     evolution_branch {
       evolution: PUPITAR
@@ -29680,7 +29680,7 @@ item_templates {
     weight_std_dev: 19
     family_id: FAMILY_LARVITAR
     candy_to_evolve: 100
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1.2
     evolution_branch {
       evolution: TYRANITAR
@@ -29765,7 +29765,7 @@ item_templates {
     height_std_dev: 0.25125
     weight_std_dev: 25.25
     family_id: FAMILY_LARVITAR
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 2
   }
@@ -29845,7 +29845,7 @@ item_templates {
     height_std_dev: 0.65125
     weight_std_dev: 27
     family_id: FAMILY_LUGIA
-    km_buddy_distance: 20
+    km_buddy_distance: 10
     buddy_size: BUDDY_BIG
     model_height: 4.85
   }
@@ -29924,7 +29924,7 @@ item_templates {
     height_std_dev: 0.47625
     weight_std_dev: 24.875
     family_id: FAMILY_HO_OH
-    km_buddy_distance: 20
+    km_buddy_distance: 10
     buddy_size: BUDDY_BIG
     model_height: 5.26
   }
@@ -30004,7 +30004,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 0.625
     family_id: FAMILY_CELEBI
-    km_buddy_distance: 20
+    km_buddy_distance: 10
     model_height: 0.65
   }
 }
@@ -30077,7 +30077,7 @@ item_templates {
     height_std_dev: 0.06375
     weight_std_dev: 0.625
     family_id: FAMILY_TREECKO
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.5
     evolution_branch {
       evolution: GROVYLE
@@ -30156,7 +30156,7 @@ item_templates {
     height_std_dev: 0.11125
     weight_std_dev: 2.7
     family_id: FAMILY_TREECKO
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.82
     evolution_branch {
       evolution: SCEPTILE
@@ -30236,7 +30236,7 @@ item_templates {
     height_std_dev: 0.2125
     weight_std_dev: 6.525
     family_id: FAMILY_TREECKO
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.7
   }
@@ -30309,7 +30309,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 0.3125
     family_id: FAMILY_TORCHIC
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_SHOULDER
     model_height: 0.4
     evolution_branch {
@@ -30391,7 +30391,7 @@ item_templates {
     height_std_dev: 0.11125
     weight_std_dev: 2.4375
     family_id: FAMILY_TORCHIC
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.94
     evolution_branch {
       evolution: BLAZIKEN
@@ -30472,7 +30472,7 @@ item_templates {
     height_std_dev: 0.23875
     weight_std_dev: 6.5
     family_id: FAMILY_TORCHIC
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.76
   }
@@ -30546,7 +30546,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 0.95
     family_id: FAMILY_MUDKIP
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.4
     evolution_branch {
       evolution: MARSHTOMP
@@ -30627,7 +30627,7 @@ item_templates {
     height_std_dev: 0.08875
     weight_std_dev: 3.5
     family_id: FAMILY_MUDKIP
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.7
     evolution_branch {
       evolution: SWAMPERT
@@ -30707,7 +30707,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 10.2375
     family_id: FAMILY_MUDKIP
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.8
   }
@@ -30780,7 +30780,7 @@ item_templates {
     height_std_dev: 0.06375
     weight_std_dev: 1.7
     family_id: FAMILY_POOCHYENA
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.5
     evolution_branch {
       evolution: MIGHTYENA
@@ -30860,7 +30860,7 @@ item_templates {
     height_std_dev: 0.12375
     weight_std_dev: 4.625
     family_id: FAMILY_POOCHYENA
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1
   }
 }
@@ -30932,7 +30932,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 2.1875
     family_id: FAMILY_ZIGZAGOON
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1.1
     evolution_branch {
       evolution: LINOONE
@@ -31011,7 +31011,7 @@ item_templates {
     height_std_dev: 0.06375
     weight_std_dev: 4.0625
     family_id: FAMILY_ZIGZAGOON
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1.8
   }
 }
@@ -31084,7 +31084,7 @@ item_templates {
     height_std_dev: 0.0375
     weight_std_dev: 0.45
     family_id: FAMILY_WURMPLE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_SHOULDER
     model_height: 0.22
     evolution_branch {
@@ -31168,7 +31168,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 1.25
     family_id: FAMILY_WURMPLE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.39
     evolution_branch {
       evolution: BEAUTIFLY
@@ -31249,7 +31249,7 @@ item_templates {
     height_std_dev: 0.12375
     weight_std_dev: 3.55
     family_id: FAMILY_WURMPLE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 1.12
   }
@@ -31326,7 +31326,7 @@ item_templates {
     height_std_dev: 0.08875
     weight_std_dev: 1.4375
     family_id: FAMILY_WURMPLE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.46
     evolution_branch {
       evolution: DUSTOX
@@ -31406,7 +31406,7 @@ item_templates {
     height_std_dev: 0.14875
     weight_std_dev: 3.95
     family_id: FAMILY_WURMPLE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 1.3
   }
@@ -31481,7 +31481,7 @@ item_templates {
     height_std_dev: 0.06375
     weight_std_dev: 0.325
     family_id: FAMILY_LOTAD
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.4074074
     evolution_branch {
       evolution: LOMBRE
@@ -31561,7 +31561,7 @@ item_templates {
     height_std_dev: 0.14875
     weight_std_dev: 4.0625
     family_id: FAMILY_LOTAD
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.1086956
     evolution_branch {
@@ -31643,7 +31643,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 6.875
     family_id: FAMILY_LOTAD
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.9642857
   }
@@ -31717,7 +31717,7 @@ item_templates {
     height_std_dev: 0.06375
     weight_std_dev: 0.5
     family_id: FAMILY_SEEDOT
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.5
     evolution_branch {
       evolution: NUZLEAF
@@ -31797,7 +31797,7 @@ item_templates {
     height_std_dev: 0.12375
     weight_std_dev: 3.5
     family_id: FAMILY_SEEDOT
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1
     evolution_branch {
       evolution: SHIFTRY
@@ -31878,7 +31878,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 7.45
     family_id: FAMILY_SEEDOT
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.2782608
   }
@@ -31953,7 +31953,7 @@ item_templates {
     height_std_dev: 0.0375
     weight_std_dev: 0.2875
     family_id: FAMILY_TAILLOW
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_SHOULDER
     model_height: 0.3
     evolution_branch {
@@ -32035,7 +32035,7 @@ item_templates {
     height_std_dev: 0.08875
     weight_std_dev: 2.475
     family_id: FAMILY_TAILLOW
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 1.21
   }
@@ -32109,7 +32109,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 1.1875
     family_id: FAMILY_WINGULL
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 1.7341464
     evolution_branch {
@@ -32191,7 +32191,7 @@ item_templates {
     height_std_dev: 0.14875
     weight_std_dev: 3.5
     family_id: FAMILY_WINGULL
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 2.5828571
   }
@@ -32266,7 +32266,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 0.825
     family_id: FAMILY_RALTS
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.4
     evolution_branch {
       evolution: KIRLIA
@@ -32347,7 +32347,7 @@ item_templates {
     height_std_dev: 0.09875
     weight_std_dev: 2.525
     family_id: FAMILY_RALTS
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.94545454
     evolution_branch {
       evolution: GARDEVOIR
@@ -32409,7 +32409,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 6.05
     family_id: FAMILY_RALTS
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.7341464
   }
@@ -32465,7 +32465,7 @@ item_templates {
     height_std_dev: 0.06375
     weight_std_dev: 0.2125
     family_id: FAMILY_SURSKIT
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.5
     evolution_branch {
       evolution: MASQUERAIN
@@ -32527,7 +32527,7 @@ item_templates {
     height_std_dev: 0.09875
     weight_std_dev: 0.45
     family_id: FAMILY_SURSKIT
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 0.75
   }
@@ -32582,7 +32582,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 0.5625
     family_id: FAMILY_SHROOMISH
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.4
     evolution_branch {
       evolution: BRELOOM
@@ -32644,7 +32644,7 @@ item_templates {
     height_std_dev: 0.14875
     weight_std_dev: 4.9
     family_id: FAMILY_SHROOMISH
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.2604166
   }
@@ -32699,7 +32699,7 @@ item_templates {
     height_std_dev: 0.09875
     weight_std_dev: 3
     family_id: FAMILY_SLAKOTH
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.8
     evolution_branch {
       evolution: VIGOROTH
@@ -32760,7 +32760,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 5.8125
     family_id: FAMILY_SLAKOTH
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.5
     evolution_branch {
@@ -32822,7 +32822,7 @@ item_templates {
     height_std_dev: 0.25125
     weight_std_dev: 16.3125
     family_id: FAMILY_SLAKOTH
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 2.589041
   }
@@ -32878,7 +32878,7 @@ item_templates {
     height_std_dev: 0.06375
     weight_std_dev: 0.6875
     family_id: FAMILY_NINCADA
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.55555558
     evolution_branch {
       evolution: NINJASK
@@ -32944,7 +32944,7 @@ item_templates {
     height_std_dev: 0.09875
     weight_std_dev: 1.5
     family_id: FAMILY_NINCADA
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 0.81391305
   }
@@ -33003,7 +33003,7 @@ item_templates {
     height_std_dev: 0.09875
     weight_std_dev: 0.15
     family_id: FAMILY_NINCADA
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 0.8449074
   }
@@ -33058,7 +33058,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 2.0375
     family_id: FAMILY_WHISMUR
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.6
     evolution_branch {
       evolution: LOUDRED
@@ -33119,7 +33119,7 @@ item_templates {
     height_std_dev: 0.12375
     weight_std_dev: 5.0625
     family_id: FAMILY_WHISMUR
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1
     evolution_branch {
@@ -33181,7 +33181,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 10.5
     family_id: FAMILY_WHISMUR
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.5
   }
@@ -33236,7 +33236,7 @@ item_templates {
     height_std_dev: 0.12375
     weight_std_dev: 10.8
     family_id: FAMILY_MAKUHITA
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1
     evolution_branch {
       evolution: HARIYAMA
@@ -33297,7 +33297,7 @@ item_templates {
     height_std_dev: 0.28875
     weight_std_dev: 31.725
     family_id: FAMILY_MAKUHITA
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 2.3
   }
@@ -33354,7 +33354,7 @@ item_templates {
     height_std_dev: 0.025
     weight_std_dev: 0.25
     family_id: FAMILY_MARILL
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BABY
     model_height: 0.31
   }
@@ -33409,7 +33409,7 @@ item_templates {
     height_std_dev: 0.12375
     weight_std_dev: 12.125
     family_id: FAMILY_NOSEPASS
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1
   }
@@ -33464,7 +33464,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 1.375
     family_id: FAMILY_SKITTY
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.6
     evolution_branch {
       evolution: DELCATTY
@@ -33525,7 +33525,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 4.075
     family_id: FAMILY_SKITTY
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1.2604166
   }
 }
@@ -33584,7 +33584,7 @@ item_templates {
     height_std_dev: 0.06375
     weight_std_dev: 1.375
     family_id: FAMILY_SABLEYE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.5
   }
 }
@@ -33639,7 +33639,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 1.4375
     family_id: FAMILY_MAWILE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.62
   }
 }
@@ -33694,7 +33694,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 7.5
     family_id: FAMILY_ARON
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.4
     evolution_branch {
       evolution: LAIRON
@@ -33756,7 +33756,7 @@ item_templates {
     height_std_dev: 0.11125
     weight_std_dev: 15
     family_id: FAMILY_ARON
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 0.9
     evolution_branch {
@@ -33819,7 +33819,7 @@ item_templates {
     height_std_dev: 0.26375
     weight_std_dev: 45
     family_id: FAMILY_ARON
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 2.2
   }
@@ -33875,7 +33875,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 1.4
     family_id: FAMILY_MEDITITE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.57
     evolution_branch {
       evolution: MEDICHAM
@@ -33937,7 +33937,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 3.9375
     family_id: FAMILY_MEDITITE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.5113636
   }
@@ -33992,7 +33992,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 1.9
     family_id: FAMILY_ELECTRIKE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1.02
     evolution_branch {
       evolution: MANECTRIC
@@ -34053,7 +34053,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 5.025
     family_id: FAMILY_ELECTRIKE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.6091954
   }
@@ -34108,7 +34108,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 0.525
     family_id: FAMILY_PLUSLE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_SHOULDER
     model_height: 0.4
   }
@@ -34163,7 +34163,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 0.525
     family_id: FAMILY_MINUN
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_SHOULDER
     model_height: 0.4
   }
@@ -34218,7 +34218,7 @@ item_templates {
     height_std_dev: 0.08875
     weight_std_dev: 2.2125
     family_id: FAMILY_VOLBEAT
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 0.7
   }
@@ -34273,7 +34273,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 2.2125
     family_id: FAMILY_ILLUMISE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 0.6
   }
@@ -34329,7 +34329,7 @@ item_templates {
     height_std_dev: 0.0375
     weight_std_dev: 0.25
     family_id: FAMILY_ROSELIA
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 0.35714287
   }
@@ -34384,7 +34384,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 1.2875
     family_id: FAMILY_GULPIN
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.55
     evolution_branch {
       evolution: SWALOT
@@ -34445,7 +34445,7 @@ item_templates {
     height_std_dev: 0.2125
     weight_std_dev: 10
     family_id: FAMILY_GULPIN
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.7
   }
@@ -34501,7 +34501,7 @@ item_templates {
     height_std_dev: 0.09875
     weight_std_dev: 2.6
     family_id: FAMILY_CARVANHA
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.86
     evolution_branch {
       evolution: SHARPEDO
@@ -34563,7 +34563,7 @@ item_templates {
     height_std_dev: 0.225
     weight_std_dev: 11.1
     family_id: FAMILY_CARVANHA
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.35
   }
@@ -34618,7 +34618,7 @@ item_templates {
     height_std_dev: 0.25125
     weight_std_dev: 16.25
     family_id: FAMILY_WAILMER
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.654054
     evolution_branch {
@@ -34679,7 +34679,7 @@ item_templates {
     height_std_dev: 1.8125
     weight_std_dev: 49.75
     family_id: FAMILY_WAILMER
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 2
   }
@@ -34735,7 +34735,7 @@ item_templates {
     height_std_dev: 0.08875
     weight_std_dev: 3
     family_id: FAMILY_NUMEL
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.7
     evolution_branch {
       evolution: CAMERUPT
@@ -34797,7 +34797,7 @@ item_templates {
     height_std_dev: 0.23875
     weight_std_dev: 27.5
     family_id: FAMILY_NUMEL
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.8461539
   }
@@ -34852,7 +34852,7 @@ item_templates {
     height_std_dev: 0.06375
     weight_std_dev: 10.05
     family_id: FAMILY_TORKOAL
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.82
   }
 }
@@ -34906,7 +34906,7 @@ item_templates {
     height_std_dev: 0.08875
     weight_std_dev: 3.825
     family_id: FAMILY_SPOINK
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.768
     evolution_branch {
       evolution: GRUMPIG
@@ -34967,7 +34967,7 @@ item_templates {
     height_std_dev: 0.11125
     weight_std_dev: 8.9375
     family_id: FAMILY_SPOINK
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.1490566
   }
@@ -35022,7 +35022,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 0.625
     family_id: FAMILY_SPINDA
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1.05
   }
 }
@@ -35076,7 +35076,7 @@ item_templates {
     height_std_dev: 0.08875
     weight_std_dev: 1.875
     family_id: FAMILY_TRAPINCH
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.65
     evolution_branch {
       evolution: VIBRAVA
@@ -35138,7 +35138,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 1.9125
     family_id: FAMILY_TRAPINCH
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 1.1
     evolution_branch {
@@ -35201,7 +35201,7 @@ item_templates {
     height_std_dev: 0.25125
     weight_std_dev: 10.25
     family_id: FAMILY_TRAPINCH
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 2.0869565
   }
@@ -35256,7 +35256,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 6.4125
     family_id: FAMILY_CACNEA
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.43
     evolution_branch {
       evolution: CACTURNE
@@ -35318,7 +35318,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 9.675
     family_id: FAMILY_CACNEA
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.3736264
   }
@@ -35374,7 +35374,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 0.15
     family_id: FAMILY_SWABLU
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 1.39
     evolution_branch {
@@ -35437,7 +35437,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 2.575
     family_id: FAMILY_SWABLU
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 2.17
   }
@@ -35492,7 +35492,7 @@ item_templates {
     height_std_dev: 0.1625
     weight_std_dev: 5.0375
     family_id: FAMILY_ZANGOOSE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.35
   }
@@ -35547,7 +35547,7 @@ item_templates {
     height_std_dev: 0.33625
     weight_std_dev: 6.5625
     family_id: FAMILY_SEVIPER
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.8344444
   }
@@ -35603,7 +35603,7 @@ item_templates {
     height_std_dev: 0.12375
     weight_std_dev: 21
     family_id: FAMILY_LUNATONE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1
   }
@@ -35659,7 +35659,7 @@ item_templates {
     height_std_dev: 0.14875
     weight_std_dev: 19.25
     family_id: FAMILY_SOLROCK
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.2
   }
@@ -35715,7 +35715,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 0.2375
     family_id: FAMILY_BARBOACH
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.48648649
     evolution_branch {
       evolution: WHISCASH
@@ -35777,7 +35777,7 @@ item_templates {
     height_std_dev: 0.11125
     weight_std_dev: 2.95
     family_id: FAMILY_BARBOACH
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.1142857
   }
@@ -35832,7 +35832,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 1.4375
     family_id: FAMILY_CORPHISH
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.56
     evolution_branch {
       evolution: CRAWDAUNT
@@ -35894,7 +35894,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 4.1
     family_id: FAMILY_CORPHISH
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.2
   }
@@ -35950,7 +35950,7 @@ item_templates {
     height_std_dev: 0.06375
     weight_std_dev: 2.6875
     family_id: FAMILY_BALTOY
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.5
     evolution_branch {
       evolution: CLAYDOL
@@ -36012,7 +36012,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 13.5
     family_id: FAMILY_BALTOY
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.35
   }
@@ -36068,7 +36068,7 @@ item_templates {
     height_std_dev: 0.12375
     weight_std_dev: 2.975
     family_id: FAMILY_LILEEP
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 0.92
     evolution_branch {
@@ -36131,7 +36131,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 7.55
     family_id: FAMILY_LILEEP
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.45
   }
@@ -36187,7 +36187,7 @@ item_templates {
     height_std_dev: 0.08875
     weight_std_dev: 1.5625
     family_id: FAMILY_ANORITH
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.7
     evolution_branch {
       evolution: ARMALDO
@@ -36249,7 +36249,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 8.525
     family_id: FAMILY_ANORITH
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.38
   }
@@ -36304,7 +36304,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 0.925
     family_id: FAMILY_FEEBAS
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.6
     evolution_branch {
       evolution: MILOTIC
@@ -36365,7 +36365,7 @@ item_templates {
     height_std_dev: 0.775
     weight_std_dev: 20.25
     family_id: FAMILY_FEEBAS
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 2.3
   }
@@ -36420,7 +36420,7 @@ item_templates {
     height_std_dev: 0.0375
     weight_std_dev: 0.1
     family_id: FAMILY_CASTFORM
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.35
   }
 }
@@ -36474,7 +36474,7 @@ item_templates {
     height_std_dev: 0.12375
     weight_std_dev: 2.75
     family_id: FAMILY_KECLEON
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 0.95
   }
@@ -36533,7 +36533,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 0.2875
     family_id: FAMILY_SHUPPET
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_FLYING
     model_height: 0.64
     evolution_branch {
@@ -36599,7 +36599,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 1.5625
     family_id: FAMILY_SHUPPET
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.08
   }
@@ -36658,7 +36658,7 @@ item_templates {
     height_std_dev: 0.09875
     weight_std_dev: 1.875
     family_id: FAMILY_DUSKULL
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     model_height: 0.8
     evolution_branch {
       evolution: DUSCLOPS
@@ -36723,7 +36723,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 3.825
     family_id: FAMILY_DUSKULL
-    km_buddy_distance: 3
+    km_buddy_distance: 1.5
     buddy_size: BUDDY_BIG
     model_height: 1.55
   }
@@ -36779,7 +36779,7 @@ item_templates {
     height_std_dev: 0.25125
     weight_std_dev: 12.5
     family_id: FAMILY_TROPIUS
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 3.09
   }
@@ -36834,7 +36834,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 0.125
     family_id: FAMILY_CHIMECHO
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 0.58
   }
@@ -36889,7 +36889,7 @@ item_templates {
     height_std_dev: 0.14875
     weight_std_dev: 5.875
     family_id: FAMILY_ABSOL
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.3043479
   }
@@ -36944,7 +36944,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 1.75
     family_id: FAMILY_WOBBUFFET
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BABY
     model_height: 0.59583336
     evolution_branch {
@@ -37003,7 +37003,7 @@ item_templates {
     height_std_dev: 0.08875
     weight_std_dev: 2.1
     family_id: FAMILY_SNORUNT
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.65811968
     evolution_branch {
       evolution: GLALIE
@@ -37064,7 +37064,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 32.0625
     family_id: FAMILY_SNORUNT
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.5
   }
@@ -37120,7 +37120,7 @@ item_templates {
     height_std_dev: 0.09875
     weight_std_dev: 4.9375
     family_id: FAMILY_SPHEAL
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.8
     evolution_branch {
       evolution: SEALEO
@@ -37182,7 +37182,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 10.95
     family_id: FAMILY_SPHEAL
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 0.84705883
     evolution_branch {
@@ -37245,7 +37245,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 18.825
     family_id: FAMILY_SPHEAL
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.3876405
   }
@@ -37299,7 +37299,7 @@ item_templates {
     height_std_dev: 0.05125
     weight_std_dev: 6.5625
     family_id: FAMILY_CLAMPERL
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.4
     evolution_branch {
       evolution: HUNTAIL
@@ -37364,7 +37364,7 @@ item_templates {
     height_std_dev: 0.2125
     weight_std_dev: 3.375
     family_id: FAMILY_CLAMPERL
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 2.1465116
   }
@@ -37422,7 +37422,7 @@ item_templates {
     height_std_dev: 0.225
     weight_std_dev: 2.825
     family_id: FAMILY_CLAMPERL
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 2.0090909
   }
@@ -37478,7 +37478,7 @@ item_templates {
     height_std_dev: 0.12375
     weight_std_dev: 2.925
     family_id: FAMILY_RELICANTH
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 0.92
   }
@@ -37533,7 +37533,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 1.0875
     family_id: FAMILY_LUVDISC
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.6
   }
 }
@@ -37587,7 +37587,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 5.2625
     family_id: FAMILY_BAGON
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.65
     evolution_branch {
       evolution: SHELGON
@@ -37648,7 +37648,7 @@ item_templates {
     height_std_dev: 0.13625
     weight_std_dev: 13.8125
     family_id: FAMILY_BAGON
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.1
     evolution_branch {
@@ -37711,7 +37711,7 @@ item_templates {
     height_std_dev: 0.1875
     weight_std_dev: 12.825
     family_id: FAMILY_BAGON
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.6
   }
@@ -37767,7 +37767,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 11.9
     family_id: FAMILY_BELDUM
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.61
     evolution_branch {
       evolution: METANG
@@ -37829,7 +37829,7 @@ item_templates {
     height_std_dev: 0.14875
     weight_std_dev: 25.3125
     family_id: FAMILY_BELDUM
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.53
     evolution_branch {
@@ -37892,7 +37892,7 @@ item_templates {
     height_std_dev: 0.2
     weight_std_dev: 68.75
     family_id: FAMILY_BELDUM
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 2.6
   }
@@ -37948,7 +37948,7 @@ item_templates {
     height_std_dev: 0.2125
     weight_std_dev: 28.75
     family_id: FAMILY_REGIROCK
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.7
   }
@@ -38004,7 +38004,7 @@ item_templates {
     height_std_dev: 0.225
     weight_std_dev: 21.875
     family_id: FAMILY_REGICE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.8
   }
@@ -38060,7 +38060,7 @@ item_templates {
     height_std_dev: 0.23875
     weight_std_dev: 25.625
     family_id: FAMILY_REGISTEEL
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 1.5
   }
@@ -38117,7 +38117,7 @@ item_templates {
     height_std_dev: 0.175
     weight_std_dev: 5
     family_id: FAMILY_LATIAS
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 1.5225806
   }
@@ -38174,7 +38174,7 @@ item_templates {
     height_std_dev: 0.25125
     weight_std_dev: 7.5
     family_id: FAMILY_LATIOS
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_FLYING
     model_height: 1.92
   }
@@ -38230,7 +38230,7 @@ item_templates {
     height_std_dev: 0.5625
     weight_std_dev: 44
     family_id: FAMILY_KYOGRE
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 5.1
   }
@@ -38286,7 +38286,7 @@ item_templates {
     height_std_dev: 0.43875
     weight_std_dev: 118.75
     family_id: FAMILY_GROUDON
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 3
   }
@@ -38342,7 +38342,7 @@ item_templates {
     height_std_dev: 0.87625
     weight_std_dev: 25.8125
     family_id: FAMILY_RAYQUAZA
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     buddy_size: BUDDY_BIG
     model_height: 3.76
   }
@@ -38399,7 +38399,7 @@ item_templates {
     height_std_dev: 0.0375
     weight_std_dev: 0.1375
     family_id: FAMILY_JIRACHI
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 0.3
   }
 }
@@ -38454,7 +38454,7 @@ item_templates {
     height_std_dev: 0.2125
     weight_std_dev: 7.6
     family_id: FAMILY_DEOXYS
-    km_buddy_distance: 5
+    km_buddy_distance: 2.5
     model_height: 1.55
   }
 }
@@ -51269,4 +51269,4 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1509833670510
+timestamp_ms: 1508782600408
