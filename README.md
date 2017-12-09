@@ -10,6 +10,7 @@ A repository of Game Master files of Pokemon GO.
 ## Version History
 |Date|ID|Diff|Notes|
 |---|---|---|---|
+|2017-12-09|[0000016038F0410D](https://github.com/pekingduck/pogo-game-master/blob/master/archive/0000016038F0410D_GAME_MASTER.txt)|[Link](https://github.com/pekingduck/pogo-game-master/commit/285880e66a4e9ad980c0b2a8f457073115f3e935#diff-589fb52f9a37393116479ac3c0dfd8ef)|Ho-Oh nerfed|
 |2017-12-09|[000001603894F0EB](https://github.com/pekingduck/pogo-game-master/blob/master/archive/000001603894F0EB_GAME_MASTER.txt)|[Link](https://github.com/pekingduck/pogo-game-master/commit/19383be8c0f23cab58173d932a4352b71b0dc512#diff-589fb52f9a37393116479ac3c0dfd8ef)|Gen 3|
 |2017-11-05|[0000015F89197F6E](https://github.com/pekingduck/pogo-game-master/blob/master/archive/0000015F3C490B6F_GAME_MASTER.txt)|[Link](https://github.com/pekingduck/pogo-game-master/commit/e6cdb17b78dc2f5b62e52245f8e6bfefb12b13d2#diff-589fb52f9a37393116479ac3c0dfd8ef)|Buddy distance update|
 |2017-10-20|[0000015F3C490B6F](https://github.com/pekingduck/pogo-game-master/blob/master/archive/0000015F3C490B6F_GAME_MASTER.txt)|[Link](https://github.com/pekingduck/pogo-game-master/commit/bbf978e462644a392975f7172783d8b5e48c8aee#diff-589fb52f9a37393116479ac3c0dfd8ef)|Style+buddy distance update|
