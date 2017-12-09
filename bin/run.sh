@@ -5,6 +5,7 @@ BIN=$(dirname $0)
 
 GAME_MASTER=$GM_REPO/$($BIN/adb-pull.sh $GM_REPO)
 if [ $? -eq 1 ]; then
+    echo exit status: $?
     exit 1
 fi
 
