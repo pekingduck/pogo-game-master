@@ -7182,24 +7182,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "POKEMON_SCALE_SETTINGS_BATTLE_POKEMON_SCALE"
-}
-item_templates {
-  template_id: "POKEMON_SCALE_SETTINGS_GUI_SCALE"
-}
-item_templates {
-  template_id: "POKEMON_SCALE_SETTINGS_GYM_TOPPER_SCALE"
-}
-item_templates {
-  template_id: "POKEMON_SCALE_SETTINGS_MAP_POKEMON_SCALE"
-}
-item_templates {
-  template_id: "POKEMON_SCALE_SETTINGS_NATURAL_SCALE"
-}
-item_templates {
-  template_id: "POKEMON_SCALE_SETTINGS_RAID_BOSS_SCALE"
-}
-item_templates {
   template_id: "POKEMON_TYPE_BUG"
   type_effective {
     attack_scalar: 1
@@ -35766,8 +35748,8 @@ item_templates {
       bonus_stardust_capture_reward: 200
       attack_probability: 0.2
       dodge_probability: 0.3
-      dodge_duration_s: 0.5
-      dodge_distance: 0.4
+      dodge_duration_s: 1
+      dodge_distance: 1
       camera_distance: 3
       min_pokemon_action_frequency_s: 0.2
       max_pokemon_action_frequency_s: 1.6
@@ -52299,4 +52281,4 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1516223014004
+timestamp_ms: 1515791190509
