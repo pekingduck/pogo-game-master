@@ -4827,16 +4827,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "BADGE_MAX_LEVEL_FRIENDS"
-  badge_settings {
-    badge_type: 48
-    badge_rank: 4
-    targets: 1
-    targets: 2
-    targets: 3
-  }
-}
-item_templates {
   template_id: "BADGE_PIKACHU"
   badge_settings {
     badge_type: BADGE_PIKACHU
@@ -4940,26 +4930,6 @@ item_templates {
     targets: 3
     targets: 50
     targets: 300
-  }
-}
-item_templates {
-  template_id: "BADGE_TRADING"
-  badge_settings {
-    badge_type: 49
-    badge_rank: 4
-    targets: 10
-    targets: 100
-    targets: 1000
-  }
-}
-item_templates {
-  template_id: "BADGE_TRADING_DISTANCE"
-  badge_settings {
-    badge_type: 50
-    badge_rank: 4
-    targets: 1000
-    targets: 100000
-    targets: 1000000
   }
 }
 item_templates {
@@ -5303,26 +5273,12 @@ item_templates {
   template_id: "FORMS_V0019_POKEMON_RATTATA"
   form_settings {
     pokemon: RATTATA
-    forms {
-      form: 45
-    }
-    forms {
-      form: 46
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
   template_id: "FORMS_V0020_POKEMON_RATICATE"
   form_settings {
     pokemon: RATICATE
-    forms {
-      form: 47
-    }
-    forms {
-      form: 48
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
@@ -5359,39 +5315,18 @@ item_templates {
   template_id: "FORMS_V0026_POKEMON_RAICHU"
   form_settings {
     pokemon: RAICHU
-    forms {
-      form: 49
-    }
-    forms {
-      form: 50
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
   template_id: "FORMS_V0027_POKEMON_SANDSHREW"
   form_settings {
     pokemon: SANDSHREW
-    forms {
-      form: 51
-    }
-    forms {
-      form: 52
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
   template_id: "FORMS_V0028_POKEMON_SANDSLASH"
   form_settings {
     pokemon: SANDSLASH
-    forms {
-      form: 53
-    }
-    forms {
-      form: 54
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
@@ -5446,26 +5381,12 @@ item_templates {
   template_id: "FORMS_V0037_POKEMON_VULPIX"
   form_settings {
     pokemon: VULPIX
-    forms {
-      form: 55
-    }
-    forms {
-      form: 56
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
   template_id: "FORMS_V0038_POKEMON_NINETALES"
   form_settings {
     pokemon: NINETALES
-    forms {
-      form: 57
-    }
-    forms {
-      form: 58
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
@@ -5538,52 +5459,24 @@ item_templates {
   template_id: "FORMS_V0050_POKEMON_DIGLETT"
   form_settings {
     pokemon: DIGLETT
-    forms {
-      form: 59
-    }
-    forms {
-      form: 60
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
   template_id: "FORMS_V0051_POKEMON_DUGTRIO"
   form_settings {
     pokemon: DUGTRIO
-    forms {
-      form: 61
-    }
-    forms {
-      form: 62
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
   template_id: "FORMS_V0052_POKEMON_MEOWTH"
   form_settings {
     pokemon: MEOWTH
-    forms {
-      form: 63
-    }
-    forms {
-      form: 64
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
   template_id: "FORMS_V0053_POKEMON_PERSIAN"
   form_settings {
     pokemon: PERSIAN
-    forms {
-      form: 65
-    }
-    forms {
-      form: 66
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
@@ -5710,39 +5603,18 @@ item_templates {
   template_id: "FORMS_V0074_POKEMON_GEODUDE"
   form_settings {
     pokemon: GEODUDE
-    forms {
-      form: 67
-    }
-    forms {
-      form: 68
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
   template_id: "FORMS_V0075_POKEMON_GRAVELER"
   form_settings {
     pokemon: GRAVELER
-    forms {
-      form: 69
-    }
-    forms {
-      form: 70
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
   template_id: "FORMS_V0076_POKEMON_GOLEM"
   form_settings {
     pokemon: GOLEM
-    forms {
-      form: 71
-    }
-    forms {
-      form: 72
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
@@ -5815,26 +5687,12 @@ item_templates {
   template_id: "FORMS_V0088_POKEMON_GRIMER"
   form_settings {
     pokemon: GRIMER
-    forms {
-      form: 73
-    }
-    forms {
-      form: 74
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
   template_id: "FORMS_V0089_POKEMON_MUK"
   form_settings {
     pokemon: MUK
-    forms {
-      form: 75
-    }
-    forms {
-      form: 76
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
@@ -5938,13 +5796,6 @@ item_templates {
   template_id: "FORMS_V0105_POKEMON_MAROWAK"
   form_settings {
     pokemon: MAROWAK
-    forms {
-      form: 79
-    }
-    forms {
-      form: 80
-      asset_bundle_value: 61
-    }
   }
 }
 item_templates {
@@ -7778,21 +7629,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "FRIENDSHIP_LEVEL_0"
-}
-item_templates {
-  template_id: "FRIENDSHIP_LEVEL_1"
-}
-item_templates {
-  template_id: "FRIENDSHIP_LEVEL_2"
-}
-item_templates {
-  template_id: "FRIENDSHIP_LEVEL_3"
-}
-item_templates {
-  template_id: "FRIENDSHIP_LEVEL_4"
-}
-item_templates {
   template_id: "GYM_BADGE_SETTINGS"
   gym_badge_settings {
     target: 500
@@ -7893,15 +7729,6 @@ item_templates {
     item_id: ITEM_FREE_RAID_TICKET
     item_type: ITEM_TYPE_RAID_TICKET
     category: ITEM_CATEGORY_RAID_TICKET
-    drop_trainer_level: 100
-  }
-}
-item_templates {
-  template_id: "ITEM_FRIEND_GIFT_BOX"
-  item_settings {
-    item_id: 1405
-    item_type: 18
-    category: 17
     drop_trainer_level: 100
   }
 }
@@ -9207,47 +9034,7 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "SPAWN_V0019_POKEMON_RATTATA_ALOLA"
-  gender_settings {
-    pokemon: RATTATA
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0019_POKEMON_RATTATA_NORMAL"
-  gender_settings {
-    pokemon: RATTATA
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
   template_id: "SPAWN_V0020_POKEMON_RATICATE"
-  gender_settings {
-    pokemon: RATICATE
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0020_POKEMON_RATICATE_ALOLA"
-  gender_settings {
-    pokemon: RATICATE
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0020_POKEMON_RATICATE_NORMAL"
   gender_settings {
     pokemon: RATICATE
     gender {
@@ -9317,26 +9104,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "SPAWN_V0026_POKEMON_RAICHU_ALOLA"
-  gender_settings {
-    pokemon: RAICHU
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0026_POKEMON_RAICHU_NORMAL"
-  gender_settings {
-    pokemon: RAICHU
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
   template_id: "SPAWN_V0027_POKEMON_SANDSHREW"
   gender_settings {
     pokemon: SANDSHREW
@@ -9347,47 +9114,7 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "SPAWN_V0027_POKEMON_SANDSHREW_ALOLA"
-  gender_settings {
-    pokemon: SANDSHREW
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0027_POKEMON_SANDSHREW_NORMAL"
-  gender_settings {
-    pokemon: SANDSHREW
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
   template_id: "SPAWN_V0028_POKEMON_SANDSLASH"
-  gender_settings {
-    pokemon: SANDSLASH
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0028_POKEMON_SANDSLASH_ALOLA"
-  gender_settings {
-    pokemon: SANDSLASH
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0028_POKEMON_SANDSLASH_NORMAL"
   gender_settings {
     pokemon: SANDSLASH
     gender {
@@ -9481,47 +9208,7 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "SPAWN_V0037_POKEMON_VULPIX_ALOLA"
-  gender_settings {
-    pokemon: VULPIX
-    gender {
-      male_percent: 0.25
-      female_percent: 0.75
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0037_POKEMON_VULPIX_NORMAL"
-  gender_settings {
-    pokemon: VULPIX
-    gender {
-      male_percent: 0.25
-      female_percent: 0.75
-    }
-  }
-}
-item_templates {
   template_id: "SPAWN_V0038_POKEMON_NINETALES"
-  gender_settings {
-    pokemon: NINETALES
-    gender {
-      male_percent: 0.25
-      female_percent: 0.75
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0038_POKEMON_NINETALES_ALOLA"
-  gender_settings {
-    pokemon: NINETALES
-    gender {
-      male_percent: 0.25
-      female_percent: 0.75
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0038_POKEMON_NINETALES_NORMAL"
   gender_settings {
     pokemon: NINETALES
     gender {
@@ -9651,47 +9338,7 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "SPAWN_V0050_POKEMON_DIGLETT_ALOLA"
-  gender_settings {
-    pokemon: DIGLETT
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0050_POKEMON_DIGLETT_NORMAL"
-  gender_settings {
-    pokemon: DIGLETT
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
   template_id: "SPAWN_V0051_POKEMON_DUGTRIO"
-  gender_settings {
-    pokemon: DUGTRIO
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0051_POKEMON_DUGTRIO_ALOLA"
-  gender_settings {
-    pokemon: DUGTRIO
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0051_POKEMON_DUGTRIO_NORMAL"
   gender_settings {
     pokemon: DUGTRIO
     gender {
@@ -9711,47 +9358,7 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "SPAWN_V0052_POKEMON_MEOWTH_ALOLA"
-  gender_settings {
-    pokemon: MEOWTH
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0052_POKEMON_MEOWTH_NORMAL"
-  gender_settings {
-    pokemon: MEOWTH
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
   template_id: "SPAWN_V0053_POKEMON_PERSIAN"
-  gender_settings {
-    pokemon: PERSIAN
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0053_POKEMON_PERSIAN_ALOLA"
-  gender_settings {
-    pokemon: PERSIAN
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0053_POKEMON_PERSIAN_NORMAL"
   gender_settings {
     pokemon: PERSIAN
     gender {
@@ -9971,26 +9578,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "SPAWN_V0074_POKEMON_GEODUDE_ALOLA"
-  gender_settings {
-    pokemon: GEODUDE
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0074_POKEMON_GEODUDE_NORMAL"
-  gender_settings {
-    pokemon: GEODUDE
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
   template_id: "SPAWN_V0075_POKEMON_GRAVELER"
   gender_settings {
     pokemon: GRAVELER
@@ -10001,47 +9588,7 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "SPAWN_V0075_POKEMON_GRAVELER_ALOLA"
-  gender_settings {
-    pokemon: GRAVELER
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0075_POKEMON_GRAVELER_NORMAL"
-  gender_settings {
-    pokemon: GRAVELER
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
   template_id: "SPAWN_V0076_POKEMON_GOLEM"
-  gender_settings {
-    pokemon: GOLEM
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0076_POKEMON_GOLEM_ALOLA"
-  gender_settings {
-    pokemon: GOLEM
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0076_POKEMON_GOLEM_NORMAL"
   gender_settings {
     pokemon: GOLEM
     gender {
@@ -10169,47 +9716,7 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "SPAWN_V0088_POKEMON_GRIMER_ALOLA"
-  gender_settings {
-    pokemon: GRIMER
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0088_POKEMON_GRIMER_NORMAL"
-  gender_settings {
-    pokemon: GRIMER
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
   template_id: "SPAWN_V0089_POKEMON_MUK"
-  gender_settings {
-    pokemon: MUK
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0089_POKEMON_MUK_ALOLA"
-  gender_settings {
-    pokemon: MUK
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0089_POKEMON_MUK_NORMAL"
   gender_settings {
     pokemon: MUK
     gender {
@@ -10388,26 +9895,6 @@ item_templates {
 }
 item_templates {
   template_id: "SPAWN_V0105_POKEMON_MAROWAK"
-  gender_settings {
-    pokemon: MAROWAK
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0105_POKEMON_MAROWAK_ALOLA"
-  gender_settings {
-    pokemon: MAROWAK
-    gender {
-      male_percent: 0.5
-      female_percent: 0.5
-    }
-  }
-}
-item_templates {
-  template_id: "SPAWN_V0105_POKEMON_MAROWAK_NORMAL"
   gender_settings {
     pokemon: MAROWAK
     gender {
@@ -14559,135 +14046,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "V0019_POKEMON_RATTATA_ALOLA"
-  pokemon_settings {
-    pokemon_id: RATTATA
-    model_scale: 1.26
-    type: POKEMON_TYPE_DARK
-    type_2: POKEMON_TYPE_NORMAL
-    camera {
-      disk_radius_m: 0.378
-      cylinder_radius_m: 0.252
-      cylinder_height_m: 0.378
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.5
-      base_flee_rate: 0.2
-      collision_radius_m: 0.189
-      collision_height_m: 0.252
-      collision_head_radius_m: 0.126
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 10
-      jump_time_s: 0.9
-      attack_timer_s: 29
-      attack_probability: 0.2
-      dodge_probability: 0.3
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 1.89
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 60
-      base_attack: 103
-      base_defense: 70
-    }
-    quick_moves: TACKLE_FAST
-    quick_moves: QUICK_ATTACK_FAST
-    cinematic_moves: CRUNCH
-    cinematic_moves: HYPER_FANG
-    cinematic_moves: SHADOW_BALL
-    animation_time: 1.9
-    animation_time: 0.6667
-    animation_time: 1.8
-    animation_time: 1.7667
-    animation_time: 0
-    animation_time: 2.4
-    animation_time: 0.8667
-    animation_time: 0
-    evolution_ids: RATICATE
-    evolution_pips: 1
-    pokedex_height_m: 0.3
-    pokedex_weight_kg: 3.8
-    height_std_dev: 0.0375
-    weight_std_dev: 0.475
-    family_id: FAMILY_RATTATA
-    candy_to_evolve: 25
-    km_buddy_distance: 1
-    model_height: 0.42
-    evolution_branch {
-      evolution: RATICATE
-      candy_cost: 25
-    }
-  }
-}
-item_templates {
-  template_id: "V0019_POKEMON_RATTATA_NORMAL"
-  pokemon_settings {
-    pokemon_id: RATTATA
-    model_scale: 1.26
-    type: POKEMON_TYPE_NORMAL
-    camera {
-      disk_radius_m: 0.378
-      cylinder_radius_m: 0.252
-      cylinder_height_m: 0.378
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.5
-      base_flee_rate: 0.2
-      collision_radius_m: 0.189
-      collision_height_m: 0.252
-      collision_head_radius_m: 0.126
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 10
-      jump_time_s: 0.9
-      attack_timer_s: 29
-      attack_probability: 0.2
-      dodge_probability: 0.3
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 1.89
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 60
-      base_attack: 103
-      base_defense: 70
-    }
-    quick_moves: TACKLE_FAST
-    quick_moves: QUICK_ATTACK_FAST
-    cinematic_moves: DIG
-    cinematic_moves: HYPER_FANG
-    cinematic_moves: BODY_SLAM
-    animation_time: 1.9
-    animation_time: 0.6667
-    animation_time: 1.8
-    animation_time: 1.7667
-    animation_time: 0
-    animation_time: 2.4
-    animation_time: 0.8667
-    animation_time: 0
-    evolution_ids: RATICATE
-    evolution_pips: 1
-    pokedex_height_m: 0.3
-    pokedex_weight_kg: 3.5
-    height_std_dev: 0.0375
-    weight_std_dev: 0.4375
-    family_id: FAMILY_RATTATA
-    candy_to_evolve: 25
-    km_buddy_distance: 1
-    model_height: 0.42
-    evolution_branch {
-      evolution: RATICATE
-      candy_cost: 25
-    }
-  }
-}
-item_templates {
   template_id: "V0020_MOVE_VICE_GRIP"
   move_settings {
     movement_id: VICE_GRIP
@@ -14708,129 +14066,6 @@ item_templates {
 }
 item_templates {
   template_id: "V0020_POKEMON_RATICATE"
-  pokemon_settings {
-    pokemon_id: RATICATE
-    model_scale: 1.17
-    type: POKEMON_TYPE_NORMAL
-    camera {
-      disk_radius_m: 0.7898
-      cylinder_radius_m: 0.5265
-      cylinder_height_m: 0.936
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.2
-      base_flee_rate: 0.07
-      collision_radius_m: 0.2925
-      collision_height_m: 0.585
-      collision_head_radius_m: 0.26325
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 23
-      jump_time_s: 1
-      attack_timer_s: 8
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.2
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 3.94875
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 110
-      base_attack: 161
-      base_defense: 144
-    }
-    quick_moves: BITE_FAST
-    quick_moves: QUICK_ATTACK_FAST
-    cinematic_moves: DIG
-    cinematic_moves: HYPER_FANG
-    cinematic_moves: HYPER_BEAM
-    animation_time: 1.6667
-    animation_time: 0.6667
-    animation_time: 1.7333
-    animation_time: 1.6667
-    animation_time: 0
-    animation_time: 2
-    animation_time: 2.0667
-    animation_time: 0
-    evolution_pips: 1
-    pokedex_height_m: 0.7
-    pokedex_weight_kg: 18.5
-    parent_pokemon_id: RATTATA
-    height_std_dev: 0.0875
-    weight_std_dev: 2.3125
-    family_id: FAMILY_RATTATA
-    km_buddy_distance: 1
-    model_height: 0.7
-  }
-}
-item_templates {
-  template_id: "V0020_POKEMON_RATICATE_ALOLA"
-  pokemon_settings {
-    pokemon_id: RATICATE
-    model_scale: 1.17
-    type: POKEMON_TYPE_DARK
-    type_2: POKEMON_TYPE_NORMAL
-    camera {
-      disk_radius_m: 0.7898
-      cylinder_radius_m: 0.5265
-      cylinder_height_m: 0.936
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.2
-      base_flee_rate: 0.07
-      collision_radius_m: 0.2925
-      collision_height_m: 0.585
-      collision_head_radius_m: 0.26325
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 23
-      jump_time_s: 1
-      attack_timer_s: 8
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.2
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 3.94875
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 150
-      base_attack: 135
-      base_defense: 159
-    }
-    quick_moves: BITE_FAST
-    quick_moves: QUICK_ATTACK_FAST
-    cinematic_moves: CRUNCH
-    cinematic_moves: HYPER_FANG
-    cinematic_moves: HYPER_BEAM
-    animation_time: 1.6667
-    animation_time: 0.6667
-    animation_time: 1.7333
-    animation_time: 1.6667
-    animation_time: 0
-    animation_time: 2
-    animation_time: 2.0667
-    animation_time: 0
-    evolution_pips: 1
-    pokedex_height_m: 0.7
-    pokedex_weight_kg: 25.5
-    parent_pokemon_id: RATTATA
-    height_std_dev: 0.0875
-    weight_std_dev: 3.1875
-    family_id: FAMILY_RATTATA
-    km_buddy_distance: 1
-    model_height: 0.7
-  }
-}
-item_templates {
-  template_id: "V0020_POKEMON_RATICATE_NORMAL"
   pokemon_settings {
     pokemon_id: RATICATE
     model_scale: 1.17
@@ -15350,259 +14585,7 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "V0026_POKEMON_RAICHU_ALOLA"
-  pokemon_settings {
-    pokemon_id: RAICHU
-    model_scale: 1.08
-    type: POKEMON_TYPE_ELECTRIC
-    type_2: POKEMON_TYPE_PSYCHIC
-    camera {
-      disk_radius_m: 0.729
-      cylinder_radius_m: 0.486
-      cylinder_height_m: 0.75
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.1
-      base_flee_rate: 0.06
-      collision_radius_m: 0.27
-      collision_height_m: 0.54
-      collision_head_radius_m: 0.216
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 6
-      jump_time_s: 1.25
-      attack_timer_s: 17
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 4
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 120
-      base_attack: 201
-      base_defense: 172
-    }
-    quick_moves: VOLT_SWITCH_FAST
-    quick_moves: SPARK_FAST
-    cinematic_moves: PSYCHIC
-    cinematic_moves: THUNDER_PUNCH
-    cinematic_moves: WILD_CHARGE
-    animation_time: 2.2333
-    animation_time: 0.6667
-    animation_time: 2
-    animation_time: 2
-    animation_time: 0
-    animation_time: 2.6667
-    animation_time: 1
-    animation_time: 1.133333
-    evolution_pips: 1
-    pokedex_height_m: 0.7
-    pokedex_weight_kg: 21
-    parent_pokemon_id: PIKACHU
-    height_std_dev: 0.0875
-    weight_std_dev: 2.625
-    family_id: FAMILY_PIKACHU
-    km_buddy_distance: 1
-    model_height: 0.83
-  }
-}
-item_templates {
-  template_id: "V0026_POKEMON_RAICHU_NORMAL"
-  pokemon_settings {
-    pokemon_id: RAICHU
-    model_scale: 1.08
-    type: POKEMON_TYPE_ELECTRIC
-    camera {
-      disk_radius_m: 0.729
-      cylinder_radius_m: 0.486
-      cylinder_height_m: 0.75
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.1
-      base_flee_rate: 0.06
-      collision_radius_m: 0.27
-      collision_height_m: 0.54
-      collision_head_radius_m: 0.216
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 6
-      jump_time_s: 1.25
-      attack_timer_s: 17
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 4
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 120
-      base_attack: 193
-      base_defense: 165
-    }
-    quick_moves: VOLT_SWITCH_FAST
-    quick_moves: SPARK_FAST
-    cinematic_moves: BRICK_BREAK
-    cinematic_moves: THUNDER_PUNCH
-    cinematic_moves: WILD_CHARGE
-    animation_time: 2.2333
-    animation_time: 0.6667
-    animation_time: 2
-    animation_time: 2
-    animation_time: 0
-    animation_time: 2.6667
-    animation_time: 1
-    animation_time: 1.133333
-    evolution_pips: 1
-    pokedex_height_m: 0.8
-    pokedex_weight_kg: 30
-    parent_pokemon_id: PIKACHU
-    height_std_dev: 0.1
-    weight_std_dev: 3.75
-    family_id: FAMILY_PIKACHU
-    km_buddy_distance: 1
-    model_height: 0.83
-  }
-}
-item_templates {
   template_id: "V0027_POKEMON_SANDSHREW"
-  pokemon_settings {
-    pokemon_id: SANDSHREW
-    model_scale: 1.29
-    type: POKEMON_TYPE_GROUND
-    camera {
-      disk_radius_m: 0.4838
-      cylinder_radius_m: 0.4
-      cylinder_height_m: 0.6
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.5
-      base_flee_rate: 0.1
-      collision_radius_m: 0.258
-      collision_height_m: 0.48375
-      collision_head_radius_m: 0.1935
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 8
-      jump_time_s: 1
-      attack_timer_s: 23
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 3
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 100
-      base_attack: 126
-      base_defense: 145
-    }
-    quick_moves: SCRATCH_FAST
-    quick_moves: MUD_SHOT_FAST
-    cinematic_moves: DIG
-    cinematic_moves: ROCK_SLIDE
-    cinematic_moves: SAND_TOMB
-    animation_time: 1.8
-    animation_time: 0.6667
-    animation_time: 1.4667
-    animation_time: 1.6667
-    animation_time: 0
-    animation_time: 2.6667
-    animation_time: 1
-    animation_time: 0
-    evolution_ids: SANDSLASH
-    evolution_pips: 1
-    pokedex_height_m: 0.6
-    pokedex_weight_kg: 12
-    height_std_dev: 0.075
-    weight_std_dev: 1.5
-    family_id: FAMILY_SANDSHREW
-    candy_to_evolve: 50
-    km_buddy_distance: 3
-    model_height: 0.55
-    evolution_branch {
-      evolution: SANDSLASH
-      candy_cost: 50
-    }
-  }
-}
-item_templates {
-  template_id: "V0027_POKEMON_SANDSHREW_ALOLA"
-  pokemon_settings {
-    pokemon_id: SANDSHREW
-    model_scale: 1.29
-    type: POKEMON_TYPE_ICE
-    type_2: POKEMON_TYPE_STEEL
-    camera {
-      disk_radius_m: 0.4838
-      cylinder_radius_m: 0.4
-      cylinder_height_m: 0.6
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.5
-      base_flee_rate: 0.1
-      collision_radius_m: 0.258
-      collision_height_m: 0.48375
-      collision_head_radius_m: 0.1935
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 8
-      jump_time_s: 1
-      attack_timer_s: 23
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 3
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 100
-      base_attack: 125
-      base_defense: 154
-    }
-    quick_moves: METAL_CLAW_FAST
-    quick_moves: POWDER_SNOW_FAST
-    cinematic_moves: BLIZZARD
-    cinematic_moves: GYRO_BALL
-    cinematic_moves: NIGHT_SLASH
-    animation_time: 1.8
-    animation_time: 0.6667
-    animation_time: 1.4667
-    animation_time: 1.6667
-    animation_time: 0
-    animation_time: 2.6667
-    animation_time: 1
-    animation_time: 0
-    evolution_ids: SANDSLASH
-    evolution_pips: 1
-    pokedex_height_m: 0.7
-    pokedex_weight_kg: 40
-    height_std_dev: 0.0875
-    weight_std_dev: 5
-    family_id: FAMILY_SANDSHREW
-    candy_to_evolve: 50
-    km_buddy_distance: 3
-    model_height: 0.55
-    evolution_branch {
-      evolution: SANDSLASH
-      candy_cost: 50
-    }
-  }
-}
-item_templates {
-  template_id: "V0027_POKEMON_SANDSHREW_NORMAL"
   pokemon_settings {
     pokemon_id: SANDSHREW
     model_scale: 1.29
@@ -15686,129 +14669,6 @@ item_templates {
 }
 item_templates {
   template_id: "V0028_POKEMON_SANDSLASH"
-  pokemon_settings {
-    pokemon_id: SANDSLASH
-    model_scale: 1
-    type: POKEMON_TYPE_GROUND
-    camera {
-      disk_radius_m: 0.6
-      cylinder_radius_m: 0.4
-      cylinder_height_m: 1
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.2
-      base_flee_rate: 0.06
-      collision_radius_m: 0.35
-      collision_height_m: 0.9
-      collision_head_radius_m: 0.35
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 11
-      jump_time_s: 1
-      attack_timer_s: 4
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 3.75
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 150
-      base_attack: 182
-      base_defense: 202
-    }
-    quick_moves: METAL_CLAW_FAST
-    quick_moves: MUD_SHOT_FAST
-    cinematic_moves: EARTHQUAKE
-    cinematic_moves: ROCK_TOMB
-    cinematic_moves: BULLDOZE
-    animation_time: 1.7333
-    animation_time: 0.6667
-    animation_time: 1.6667
-    animation_time: 1.6667
-    animation_time: 0
-    animation_time: 2
-    animation_time: 1.6
-    animation_time: 0
-    evolution_pips: 1
-    pokedex_height_m: 1
-    pokedex_weight_kg: 29.5
-    parent_pokemon_id: SANDSHREW
-    height_std_dev: 0.125
-    weight_std_dev: 3.6875
-    family_id: FAMILY_SANDSHREW
-    km_buddy_distance: 3
-    model_height: 1
-  }
-}
-item_templates {
-  template_id: "V0028_POKEMON_SANDSLASH_ALOLA"
-  pokemon_settings {
-    pokemon_id: SANDSLASH
-    model_scale: 1
-    type: POKEMON_TYPE_ICE
-    type_2: POKEMON_TYPE_STEEL
-    camera {
-      disk_radius_m: 0.6
-      cylinder_radius_m: 0.4
-      cylinder_height_m: 1
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.2
-      base_flee_rate: 0.06
-      collision_radius_m: 0.35
-      collision_height_m: 0.9
-      collision_head_radius_m: 0.35
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 11
-      jump_time_s: 1
-      attack_timer_s: 4
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 3.75
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 150
-      base_attack: 177
-      base_defense: 221
-    }
-    quick_moves: METAL_CLAW_FAST
-    quick_moves: POWDER_SNOW_FAST
-    cinematic_moves: BLIZZARD
-    cinematic_moves: GYRO_BALL
-    cinematic_moves: BULLDOZE
-    animation_time: 1.7333
-    animation_time: 0.6667
-    animation_time: 1.6667
-    animation_time: 1.6667
-    animation_time: 0
-    animation_time: 2
-    animation_time: 1.6
-    animation_time: 0
-    evolution_pips: 1
-    pokedex_height_m: 1.2
-    pokedex_weight_kg: 55
-    parent_pokemon_id: SANDSHREW
-    height_std_dev: 0.15
-    weight_std_dev: 6.875
-    family_id: FAMILY_SANDSHREW
-    km_buddy_distance: 3
-    model_height: 1
-  }
-}
-item_templates {
-  template_id: "V0028_POKEMON_SANDSLASH_NORMAL"
   pokemon_settings {
     pokemon_id: SANDSLASH
     model_scale: 1
@@ -16581,134 +15441,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "V0037_POKEMON_VULPIX_ALOLA"
-  pokemon_settings {
-    pokemon_id: VULPIX
-    model_scale: 1.26
-    type: POKEMON_TYPE_ICE
-    camera {
-      disk_radius_m: 0.8505
-      cylinder_radius_m: 0.4
-      cylinder_height_m: 0.65
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.3
-      base_flee_rate: 0.1
-      collision_radius_m: 0.315
-      collision_height_m: 0.63
-      collision_head_radius_m: 0.252
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 10
-      jump_time_s: 1
-      attack_timer_s: 29
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 4
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 76
-      base_attack: 96
-      base_defense: 122
-    }
-    quick_moves: ZEN_HEADBUTT_FAST
-    quick_moves: POWDER_SNOW_FAST
-    cinematic_moves: DARK_PULSE
-    cinematic_moves: ICE_BEAM
-    cinematic_moves: BLIZZARD
-    animation_time: 1.6667
-    animation_time: 0.6667
-    animation_time: 1.6667
-    animation_time: 1.6
-    animation_time: 0
-    animation_time: 2
-    animation_time: 1.3333
-    animation_time: 2.2
-    evolution_ids: NINETALES
-    evolution_pips: 1
-    pokedex_height_m: 0.6
-    pokedex_weight_kg: 9.9
-    height_std_dev: 0.075
-    weight_std_dev: 1.2375
-    family_id: FAMILY_VULPIX
-    candy_to_evolve: 50
-    km_buddy_distance: 3
-    model_height: 0.58
-    evolution_branch {
-      evolution: NINETALES
-      candy_cost: 50
-    }
-  }
-}
-item_templates {
-  template_id: "V0037_POKEMON_VULPIX_NORMAL"
-  pokemon_settings {
-    pokemon_id: VULPIX
-    model_scale: 1.26
-    type: POKEMON_TYPE_FIRE
-    camera {
-      disk_radius_m: 0.8505
-      cylinder_radius_m: 0.4
-      cylinder_height_m: 0.65
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.3
-      base_flee_rate: 0.1
-      collision_radius_m: 0.315
-      collision_height_m: 0.63
-      collision_head_radius_m: 0.252
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 10
-      jump_time_s: 1
-      attack_timer_s: 29
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 4
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 76
-      base_attack: 96
-      base_defense: 122
-    }
-    quick_moves: QUICK_ATTACK_FAST
-    quick_moves: EMBER_FAST
-    cinematic_moves: BODY_SLAM
-    cinematic_moves: FLAMETHROWER
-    cinematic_moves: FLAME_CHARGE
-    animation_time: 1.6667
-    animation_time: 0.6667
-    animation_time: 1.6667
-    animation_time: 1.6
-    animation_time: 0
-    animation_time: 2
-    animation_time: 1.3333
-    animation_time: 2.2
-    evolution_ids: NINETALES
-    evolution_pips: 1
-    pokedex_height_m: 0.6
-    pokedex_weight_kg: 9.9
-    height_std_dev: 0.075
-    weight_std_dev: 1.2375
-    family_id: FAMILY_VULPIX
-    candy_to_evolve: 50
-    km_buddy_distance: 3
-    model_height: 0.58
-    evolution_branch {
-      evolution: NINETALES
-      candy_cost: 50
-    }
-  }
-}
-item_templates {
   template_id: "V0038_MOVE_DRILL_PECK"
   move_settings {
     movement_id: DRILL_PECK
@@ -16729,131 +15461,6 @@ item_templates {
 }
 item_templates {
   template_id: "V0038_POKEMON_NINETALES"
-  pokemon_settings {
-    pokemon_id: NINETALES
-    model_scale: 0.96
-    type: POKEMON_TYPE_FIRE
-    camera {
-      disk_radius_m: 1.296
-      cylinder_radius_m: 0.65
-      cylinder_height_m: 1.2
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.1
-      base_flee_rate: 0.06
-      collision_radius_m: 0.36
-      collision_height_m: 0.96
-      collision_head_radius_m: 0.24
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 5
-      jump_time_s: 1.25
-      attack_timer_s: 14
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 4.7
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 146
-      base_attack: 169
-      base_defense: 204
-    }
-    quick_moves: FEINT_ATTACK_FAST
-    quick_moves: FIRE_SPIN_FAST
-    cinematic_moves: HEAT_WAVE
-    cinematic_moves: OVERHEAT
-    cinematic_moves: SOLAR_BEAM
-    animation_time: 2.6667
-    animation_time: 0.6667
-    animation_time: 2
-    animation_time: 2
-    animation_time: 0
-    animation_time: 2.1667
-    animation_time: 2
-    animation_time: 2
-    evolution_pips: 1
-    pokedex_height_m: 1.1
-    pokedex_weight_kg: 19.9
-    parent_pokemon_id: VULPIX
-    height_std_dev: 0.1375
-    weight_std_dev: 2.4875
-    family_id: FAMILY_VULPIX
-    km_buddy_distance: 3
-    buddy_size: BUDDY_BIG
-    model_height: 1.11
-  }
-}
-item_templates {
-  template_id: "V0038_POKEMON_NINETALES_ALOLA"
-  pokemon_settings {
-    pokemon_id: NINETALES
-    model_scale: 0.96
-    type: POKEMON_TYPE_ICE
-    type_2: POKEMON_TYPE_FAIRY
-    camera {
-      disk_radius_m: 1.296
-      cylinder_radius_m: 0.65
-      cylinder_height_m: 1.2
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.1
-      base_flee_rate: 0.06
-      collision_radius_m: 0.36
-      collision_height_m: 0.96
-      collision_head_radius_m: 0.24
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 5
-      jump_time_s: 1.25
-      attack_timer_s: 14
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 4.7
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 146
-      base_attack: 170
-      base_defense: 207
-    }
-    quick_moves: FEINT_ATTACK_FAST
-    quick_moves: POWDER_SNOW_FAST
-    cinematic_moves: DAZZLING_GLEAM
-    cinematic_moves: ICE_BEAM
-    cinematic_moves: BLIZZARD
-    animation_time: 2.6667
-    animation_time: 0.6667
-    animation_time: 2
-    animation_time: 2
-    animation_time: 0
-    animation_time: 2.1667
-    animation_time: 2
-    animation_time: 2
-    evolution_pips: 1
-    pokedex_height_m: 1.1
-    pokedex_weight_kg: 19.9
-    parent_pokemon_id: VULPIX
-    height_std_dev: 0.1375
-    weight_std_dev: 2.4875
-    family_id: FAMILY_VULPIX
-    km_buddy_distance: 3
-    buddy_size: BUDDY_BIG
-    model_height: 1.11
-  }
-}
-item_templates {
-  template_id: "V0038_POKEMON_NINETALES_NORMAL"
   pokemon_settings {
     pokemon_id: NINETALES
     model_scale: 0.96
@@ -17869,129 +16476,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "V0050_POKEMON_DIGLETT_ALOLA"
-  pokemon_settings {
-    pokemon_id: DIGLETT
-    model_scale: 2
-    type: POKEMON_TYPE_GROUND
-    type_2: POKEMON_TYPE_STEEL
-    camera {
-      disk_radius_m: 0.45
-      cylinder_radius_m: 0.15
-      cylinder_height_m: 0.25
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.5
-      base_flee_rate: 0.1
-      collision_radius_m: 0.16
-      collision_height_m: 0.4
-      collision_head_radius_m: 0.18
-      movement_timer_s: 29
-      attack_timer_s: 10
-      attack_probability: 0.1
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 2.25
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 20
-      base_attack: 109
-      base_defense: 89
-    }
-    quick_moves: MUD_SLAP_FAST
-    quick_moves: METAL_CLAW_FAST
-    cinematic_moves: DIG
-    cinematic_moves: MUD_BOMB
-    cinematic_moves: ROCK_TOMB
-    animation_time: 1.4333
-    animation_time: 0.6667
-    animation_time: 2
-    animation_time: 0.8667
-    animation_time: 0
-    animation_time: 2.1667
-    animation_time: 1.3333
-    animation_time: 1.333333
-    evolution_ids: DUGTRIO
-    evolution_pips: 1
-    pokedex_height_m: 0.2
-    pokedex_weight_kg: 1
-    height_std_dev: 0.025
-    weight_std_dev: 0.125
-    family_id: FAMILY_DIGLETT
-    candy_to_evolve: 50
-    km_buddy_distance: 3
-    model_height: 0.2
-    evolution_branch {
-      evolution: DUGTRIO
-      candy_cost: 50
-    }
-  }
-}
-item_templates {
-  template_id: "V0050_POKEMON_DIGLETT_NORMAL"
-  pokemon_settings {
-    pokemon_id: DIGLETT
-    model_scale: 2
-    type: POKEMON_TYPE_GROUND
-    camera {
-      disk_radius_m: 0.45
-      cylinder_radius_m: 0.15
-      cylinder_height_m: 0.25
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.5
-      base_flee_rate: 0.1
-      collision_radius_m: 0.16
-      collision_height_m: 0.4
-      collision_head_radius_m: 0.18
-      movement_timer_s: 29
-      attack_timer_s: 10
-      attack_probability: 0.1
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 2.25
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 20
-      base_attack: 109
-      base_defense: 88
-    }
-    quick_moves: MUD_SLAP_FAST
-    quick_moves: SCRATCH_FAST
-    cinematic_moves: DIG
-    cinematic_moves: MUD_BOMB
-    cinematic_moves: ROCK_TOMB
-    animation_time: 1.4333
-    animation_time: 0.6667
-    animation_time: 2
-    animation_time: 0.8667
-    animation_time: 0
-    animation_time: 2.1667
-    animation_time: 1.3333
-    animation_time: 1.333333
-    evolution_ids: DUGTRIO
-    evolution_pips: 1
-    pokedex_height_m: 0.2
-    pokedex_weight_kg: 0.8
-    height_std_dev: 0.025
-    weight_std_dev: 0.1
-    family_id: FAMILY_DIGLETT
-    candy_to_evolve: 50
-    km_buddy_distance: 3
-    model_height: 0.2
-    evolution_branch {
-      evolution: DUGTRIO
-      candy_cost: 50
-    }
-  }
-}
-item_templates {
   template_id: "V0051_MOVE_NIGHT_SLASH"
   move_settings {
     movement_id: NIGHT_SLASH
@@ -18012,125 +16496,6 @@ item_templates {
 }
 item_templates {
   template_id: "V0051_POKEMON_DUGTRIO"
-  pokemon_settings {
-    pokemon_id: DUGTRIO
-    model_scale: 1.12
-    type: POKEMON_TYPE_GROUND
-    camera {
-      disk_radius_m: 1.008
-      cylinder_radius_m: 0.672
-      cylinder_height_m: 0.84
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.2
-      base_flee_rate: 0.06
-      collision_radius_m: 0.448
-      collision_height_m: 0.84
-      collision_head_radius_m: 0.336
-      movement_timer_s: 29
-      attack_timer_s: 10
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.1
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 4.5
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 70
-      base_attack: 167
-      base_defense: 147
-    }
-    quick_moves: SUCKER_PUNCH_FAST
-    quick_moves: MUD_SLAP_FAST
-    cinematic_moves: EARTHQUAKE
-    cinematic_moves: MUD_BOMB
-    cinematic_moves: STONE_EDGE
-    animation_time: 1.7333
-    animation_time: 0.6667
-    animation_time: 1.6667
-    animation_time: 0.9
-    animation_time: 0
-    animation_time: 2.1333
-    animation_time: 2
-    animation_time: 0
-    evolution_pips: 1
-    pokedex_height_m: 0.7
-    pokedex_weight_kg: 33.3
-    parent_pokemon_id: DIGLETT
-    height_std_dev: 0.0875
-    weight_std_dev: 4.1625
-    family_id: FAMILY_DIGLETT
-    km_buddy_distance: 3
-    buddy_size: BUDDY_BIG
-    model_height: 0.77
-  }
-}
-item_templates {
-  template_id: "V0051_POKEMON_DUGTRIO_ALOLA"
-  pokemon_settings {
-    pokemon_id: DUGTRIO
-    model_scale: 1.12
-    type: POKEMON_TYPE_GROUND
-    type_2: POKEMON_TYPE_STEEL
-    camera {
-      disk_radius_m: 1.008
-      cylinder_radius_m: 0.672
-      cylinder_height_m: 0.84
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.2
-      base_flee_rate: 0.06
-      collision_radius_m: 0.448
-      collision_height_m: 0.84
-      collision_head_radius_m: 0.336
-      movement_timer_s: 29
-      attack_timer_s: 10
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.1
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 4.5
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 70
-      base_attack: 201
-      base_defense: 148
-    }
-    quick_moves: METAL_CLAW_FAST
-    quick_moves: MUD_SLAP_FAST
-    cinematic_moves: EARTHQUAKE
-    cinematic_moves: MUD_BOMB
-    cinematic_moves: IRON_HEAD
-    animation_time: 1.7333
-    animation_time: 0.6667
-    animation_time: 1.6667
-    animation_time: 0.9
-    animation_time: 0
-    animation_time: 2.1333
-    animation_time: 2
-    animation_time: 0
-    evolution_pips: 1
-    pokedex_height_m: 0.7
-    pokedex_weight_kg: 66.6
-    parent_pokemon_id: DIGLETT
-    height_std_dev: 0.0875
-    weight_std_dev: 8.325
-    family_id: FAMILY_DIGLETT
-    km_buddy_distance: 3
-    buddy_size: BUDDY_BIG
-    model_height: 0.77
-  }
-}
-item_templates {
-  template_id: "V0051_POKEMON_DUGTRIO_NORMAL"
   pokemon_settings {
     pokemon_id: DUGTRIO
     model_scale: 1.12
@@ -18253,134 +16618,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "V0052_POKEMON_MEOWTH_ALOLA"
-  pokemon_settings {
-    pokemon_id: MEOWTH
-    model_scale: 1.6
-    type: POKEMON_TYPE_DARK
-    camera {
-      disk_radius_m: 0.6
-      cylinder_radius_m: 0.2
-      cylinder_height_m: 0.45
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.5
-      base_flee_rate: 0.15
-      collision_radius_m: 0.128
-      collision_height_m: 0.4
-      collision_head_radius_m: 0.2
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 29
-      jump_time_s: 1
-      attack_timer_s: 10
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 3
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 80
-      base_attack: 99
-      base_defense: 81
-    }
-    quick_moves: SCRATCH_FAST
-    quick_moves: BITE_FAST
-    cinematic_moves: NIGHT_SLASH
-    cinematic_moves: DARK_PULSE
-    cinematic_moves: FOUL_PLAY
-    animation_time: 2
-    animation_time: 0.6667
-    animation_time: 1.7333
-    animation_time: 1.5
-    animation_time: 0
-    animation_time: 2
-    animation_time: 1.4
-    animation_time: 2
-    evolution_ids: PERSIAN
-    evolution_pips: 1
-    pokedex_height_m: 0.4
-    pokedex_weight_kg: 4.2
-    height_std_dev: 0.05
-    weight_std_dev: 0.525
-    family_id: FAMILY_MEOWTH
-    candy_to_evolve: 50
-    km_buddy_distance: 3
-    model_height: 0.4
-    evolution_branch {
-      evolution: PERSIAN
-      candy_cost: 50
-    }
-  }
-}
-item_templates {
-  template_id: "V0052_POKEMON_MEOWTH_NORMAL"
-  pokemon_settings {
-    pokemon_id: MEOWTH
-    model_scale: 1.6
-    type: POKEMON_TYPE_NORMAL
-    camera {
-      disk_radius_m: 0.6
-      cylinder_radius_m: 0.2
-      cylinder_height_m: 0.45
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.5
-      base_flee_rate: 0.15
-      collision_radius_m: 0.128
-      collision_height_m: 0.4
-      collision_head_radius_m: 0.2
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 29
-      jump_time_s: 1
-      attack_timer_s: 10
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 3
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 80
-      base_attack: 92
-      base_defense: 81
-    }
-    quick_moves: SCRATCH_FAST
-    quick_moves: BITE_FAST
-    cinematic_moves: NIGHT_SLASH
-    cinematic_moves: DARK_PULSE
-    cinematic_moves: FOUL_PLAY
-    animation_time: 2
-    animation_time: 0.6667
-    animation_time: 1.7333
-    animation_time: 1.5
-    animation_time: 0
-    animation_time: 2
-    animation_time: 1.4
-    animation_time: 2
-    evolution_ids: PERSIAN
-    evolution_pips: 1
-    pokedex_height_m: 0.4
-    pokedex_weight_kg: 4.2
-    height_std_dev: 0.05
-    weight_std_dev: 0.525
-    family_id: FAMILY_MEOWTH
-    candy_to_evolve: 50
-    km_buddy_distance: 3
-    model_height: 0.4
-    evolution_branch {
-      evolution: PERSIAN
-      candy_cost: 50
-    }
-  }
-}
-item_templates {
   template_id: "V0053_MOVE_BUBBLE_BEAM"
   move_settings {
     movement_id: BUBBLE_BEAM
@@ -18401,128 +16638,6 @@ item_templates {
 }
 item_templates {
   template_id: "V0053_POKEMON_PERSIAN"
-  pokemon_settings {
-    pokemon_id: PERSIAN
-    model_scale: 0.82
-    type: POKEMON_TYPE_NORMAL
-    camera {
-      disk_radius_m: 0.7995
-      cylinder_radius_m: 0.8
-      cylinder_height_m: 1
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.2
-      base_flee_rate: 0.07
-      collision_radius_m: 0.328
-      collision_height_m: 0.615
-      collision_head_radius_m: 0.164
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 8
-      jump_time_s: 1.25
-      attack_timer_s: 23
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 3.9975
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 130
-      base_attack: 150
-      base_defense: 139
-    }
-    quick_moves: SCRATCH_FAST
-    quick_moves: FEINT_ATTACK_FAST
-    cinematic_moves: FOUL_PLAY
-    cinematic_moves: POWER_GEM
-    cinematic_moves: PLAY_ROUGH
-    animation_time: 2
-    animation_time: 0.6667
-    animation_time: 1.6667
-    animation_time: 1.8333
-    animation_time: 0
-    animation_time: 1.6667
-    animation_time: 1.6667
-    animation_time: 0
-    evolution_pips: 1
-    pokedex_height_m: 1
-    pokedex_weight_kg: 32
-    parent_pokemon_id: MEOWTH
-    height_std_dev: 0.125
-    weight_std_dev: 4
-    family_id: FAMILY_MEOWTH
-    km_buddy_distance: 3
-    model_height: 1.38
-  }
-}
-item_templates {
-  template_id: "V0053_POKEMON_PERSIAN_ALOLA"
-  pokemon_settings {
-    pokemon_id: PERSIAN
-    model_scale: 0.82
-    type: POKEMON_TYPE_DARK
-    camera {
-      disk_radius_m: 0.7995
-      cylinder_radius_m: 0.8
-      cylinder_height_m: 1
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.2
-      base_flee_rate: 0.07
-      collision_radius_m: 0.328
-      collision_height_m: 0.615
-      collision_head_radius_m: 0.164
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 8
-      jump_time_s: 1.25
-      attack_timer_s: 23
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 3.9975
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 130
-      base_attack: 158
-      base_defense: 139
-    }
-    quick_moves: SCRATCH_FAST
-    quick_moves: FEINT_ATTACK_FAST
-    cinematic_moves: FOUL_PLAY
-    cinematic_moves: DARK_PULSE
-    cinematic_moves: PLAY_ROUGH
-    animation_time: 2
-    animation_time: 0.6667
-    animation_time: 1.6667
-    animation_time: 1.8333
-    animation_time: 0
-    animation_time: 1.6667
-    animation_time: 1.6667
-    animation_time: 0
-    evolution_pips: 1
-    pokedex_height_m: 1.1
-    pokedex_weight_kg: 33
-    parent_pokemon_id: MEOWTH
-    height_std_dev: 0.1375
-    weight_std_dev: 4.125
-    family_id: FAMILY_MEOWTH
-    km_buddy_distance: 3
-    model_height: 1.38
-  }
-}
-item_templates {
-  template_id: "V0053_POKEMON_PERSIAN_NORMAL"
   pokemon_settings {
     pokemon_id: PERSIAN
     model_scale: 0.82
@@ -20249,138 +18364,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "V0074_POKEMON_GEODUDE_ALOLA"
-  pokemon_settings {
-    pokemon_id: GEODUDE
-    model_scale: 0.87
-    type: POKEMON_TYPE_ROCK
-    type_2: POKEMON_TYPE_ELECTRIC
-    camera {
-      disk_radius_m: 0.5873
-      cylinder_radius_m: 0.7
-      cylinder_height_m: 0.5
-      cylinder_ground_m: 0.3
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.5
-      base_flee_rate: 0.1
-      collision_radius_m: 0.3915
-      collision_height_m: 0.1305
-      collision_head_radius_m: 0.19575
-      movement_type: MOVEMENT_HOVERING
-      movement_timer_s: 8
-      jump_time_s: 1
-      attack_timer_s: 23
-      attack_probability: 0.2
-      dodge_probability: 0.1
-      dodge_duration_s: 1
-      dodge_distance: 0.5
-      camera_distance: 2.93625
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 80
-      base_attack: 132
-      base_defense: 163
-    }
-    quick_moves: ROCK_THROW_FAST
-    quick_moves: VOLT_SWITCH_FAST
-    cinematic_moves: ROCK_SLIDE
-    cinematic_moves: ROCK_TOMB
-    cinematic_moves: THUNDERBOLT
-    animation_time: 2.3333
-    animation_time: 0.6667
-    animation_time: 1.6667
-    animation_time: 0.6667
-    animation_time: 0
-    animation_time: 2
-    animation_time: 1.6667
-    animation_time: 0
-    evolution_ids: GRAVELER
-    evolution_pips: 1
-    pokedex_height_m: 0.4
-    pokedex_weight_kg: 20.3
-    height_std_dev: 0.05
-    weight_std_dev: 2.5375
-    family_id: FAMILY_GEODUDE
-    candy_to_evolve: 25
-    km_buddy_distance: 1
-    model_height: 1.38
-    evolution_branch {
-      evolution: GRAVELER
-      candy_cost: 25
-    }
-  }
-}
-item_templates {
-  template_id: "V0074_POKEMON_GEODUDE_NORMAL"
-  pokemon_settings {
-    pokemon_id: GEODUDE
-    model_scale: 0.87
-    type: POKEMON_TYPE_ROCK
-    type_2: POKEMON_TYPE_GROUND
-    camera {
-      disk_radius_m: 0.5873
-      cylinder_radius_m: 0.7
-      cylinder_height_m: 0.5
-      cylinder_ground_m: 0.3
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.5
-      base_flee_rate: 0.1
-      collision_radius_m: 0.3915
-      collision_height_m: 0.1305
-      collision_head_radius_m: 0.19575
-      movement_type: MOVEMENT_HOVERING
-      movement_timer_s: 8
-      jump_time_s: 1
-      attack_timer_s: 23
-      attack_probability: 0.2
-      dodge_probability: 0.1
-      dodge_duration_s: 1
-      dodge_distance: 0.5
-      camera_distance: 2.93625
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 80
-      base_attack: 132
-      base_defense: 163
-    }
-    quick_moves: ROCK_THROW_FAST
-    quick_moves: TACKLE_FAST
-    cinematic_moves: ROCK_SLIDE
-    cinematic_moves: ROCK_TOMB
-    cinematic_moves: DIG
-    animation_time: 2.3333
-    animation_time: 0.6667
-    animation_time: 1.6667
-    animation_time: 0.6667
-    animation_time: 0
-    animation_time: 2
-    animation_time: 1.6667
-    animation_time: 0
-    evolution_ids: GRAVELER
-    evolution_pips: 1
-    pokedex_height_m: 0.4
-    pokedex_weight_kg: 20
-    height_std_dev: 0.05
-    weight_std_dev: 2.5
-    family_id: FAMILY_GEODUDE
-    candy_to_evolve: 25
-    km_buddy_distance: 1
-    model_height: 1.38
-    evolution_branch {
-      evolution: GRAVELER
-      candy_cost: 25
-    }
-  }
-}
-item_templates {
   template_id: "V0075_MOVE_PARABOLIC_CHARGE"
   move_settings {
     movement_id: PARABOLIC_CHARGE
@@ -20470,271 +18453,7 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "V0075_POKEMON_GRAVELER_ALOLA"
-  pokemon_settings {
-    pokemon_id: GRAVELER
-    model_scale: 0.82
-    type: POKEMON_TYPE_ROCK
-    type_2: POKEMON_TYPE_ELECTRIC
-    camera {
-      disk_radius_m: 1.0455
-      cylinder_radius_m: 0.8
-      cylinder_height_m: 1
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.25
-      base_flee_rate: 0.07
-      collision_radius_m: 0.492
-      collision_height_m: 0.697
-      collision_head_radius_m: 0.369
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 14
-      jump_time_s: 1.2
-      attack_timer_s: 5
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 5.2275
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 110
-      base_attack: 164
-      base_defense: 196
-    }
-    quick_moves: ROCK_THROW_FAST
-    quick_moves: VOLT_SWITCH_FAST
-    cinematic_moves: THUNDERBOLT
-    cinematic_moves: STONE_EDGE
-    cinematic_moves: ROCK_BLAST
-    animation_time: 2.3333
-    animation_time: 0.6667
-    animation_time: 1.8667
-    animation_time: 1.8333
-    animation_time: 0
-    animation_time: 2
-    animation_time: 1.6667
-    animation_time: 0
-    evolution_ids: GOLEM
-    evolution_pips: 1
-    pokedex_height_m: 1
-    pokedex_weight_kg: 110
-    parent_pokemon_id: GEODUDE
-    height_std_dev: 0.125
-    weight_std_dev: 13.75
-    family_id: FAMILY_GEODUDE
-    candy_to_evolve: 100
-    km_buddy_distance: 1
-    buddy_size: BUDDY_BIG
-    model_height: 1.6
-    evolution_branch {
-      evolution: GOLEM
-      candy_cost: 100
-    }
-  }
-}
-item_templates {
-  template_id: "V0075_POKEMON_GRAVELER_NORMAL"
-  pokemon_settings {
-    pokemon_id: GRAVELER
-    model_scale: 0.82
-    type: POKEMON_TYPE_ROCK
-    type_2: POKEMON_TYPE_GROUND
-    camera {
-      disk_radius_m: 1.0455
-      cylinder_radius_m: 0.8
-      cylinder_height_m: 1
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.25
-      base_flee_rate: 0.07
-      collision_radius_m: 0.492
-      collision_height_m: 0.697
-      collision_head_radius_m: 0.369
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 14
-      jump_time_s: 1.2
-      attack_timer_s: 5
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 5.2275
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 110
-      base_attack: 164
-      base_defense: 196
-    }
-    quick_moves: ROCK_THROW_FAST
-    quick_moves: MUD_SLAP_FAST
-    cinematic_moves: DIG
-    cinematic_moves: STONE_EDGE
-    cinematic_moves: ROCK_BLAST
-    animation_time: 2.3333
-    animation_time: 0.6667
-    animation_time: 1.8667
-    animation_time: 1.8333
-    animation_time: 0
-    animation_time: 2
-    animation_time: 1.6667
-    animation_time: 0
-    evolution_ids: GOLEM
-    evolution_pips: 1
-    pokedex_height_m: 1
-    pokedex_weight_kg: 105
-    parent_pokemon_id: GEODUDE
-    height_std_dev: 0.125
-    weight_std_dev: 13.125
-    family_id: FAMILY_GEODUDE
-    candy_to_evolve: 100
-    km_buddy_distance: 1
-    buddy_size: BUDDY_BIG
-    model_height: 1.6
-    evolution_branch {
-      evolution: GOLEM
-      candy_cost: 100
-    }
-  }
-}
-item_templates {
   template_id: "V0076_POKEMON_GOLEM"
-  pokemon_settings {
-    pokemon_id: GOLEM
-    model_scale: 0.84
-    type: POKEMON_TYPE_ROCK
-    type_2: POKEMON_TYPE_GROUND
-    camera {
-      disk_radius_m: 0.945
-      cylinder_radius_m: 0.8
-      cylinder_height_m: 1.25
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.125
-      base_flee_rate: 0.05
-      collision_radius_m: 0.63
-      collision_height_m: 1.092
-      collision_head_radius_m: 0.315
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 8
-      jump_time_s: 1.2
-      attack_timer_s: 3
-      bonus_candy_capture_reward: 7
-      bonus_stardust_capture_reward: 400
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 4.725
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 160
-      base_attack: 211
-      base_defense: 229
-    }
-    quick_moves: ROCK_THROW_FAST
-    quick_moves: MUD_SLAP_FAST
-    cinematic_moves: STONE_EDGE
-    cinematic_moves: ROCK_BLAST
-    cinematic_moves: EARTHQUAKE
-    animation_time: 2.6667
-    animation_time: 0.6667
-    animation_time: 2
-    animation_time: 2
-    animation_time: 0
-    animation_time: 2.1667
-    animation_time: 2
-    animation_time: 0
-    evolution_pips: 1
-    pokedex_height_m: 1.4
-    pokedex_weight_kg: 300
-    parent_pokemon_id: GRAVELER
-    height_std_dev: 0.175
-    weight_std_dev: 37.5
-    family_id: FAMILY_GEODUDE
-    km_buddy_distance: 1
-    buddy_size: BUDDY_BIG
-    model_height: 1.5
-  }
-}
-item_templates {
-  template_id: "V0076_POKEMON_GOLEM_ALOLA"
-  pokemon_settings {
-    pokemon_id: GOLEM
-    model_scale: 0.84
-    type: POKEMON_TYPE_ROCK
-    type_2: POKEMON_TYPE_ELECTRIC
-    camera {
-      disk_radius_m: 0.945
-      cylinder_radius_m: 0.8
-      cylinder_height_m: 1.25
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.125
-      base_flee_rate: 0.05
-      collision_radius_m: 0.63
-      collision_height_m: 1.092
-      collision_head_radius_m: 0.315
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 8
-      jump_time_s: 1.2
-      attack_timer_s: 3
-      bonus_candy_capture_reward: 7
-      bonus_stardust_capture_reward: 400
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 4.725
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 160
-      base_attack: 211
-      base_defense: 229
-    }
-    quick_moves: ROCK_THROW_FAST
-    quick_moves: VOLT_SWITCH_FAST
-    cinematic_moves: STONE_EDGE
-    cinematic_moves: ROCK_BLAST
-    cinematic_moves: WILD_CHARGE
-    animation_time: 2.6667
-    animation_time: 0.6667
-    animation_time: 2
-    animation_time: 2
-    animation_time: 0
-    animation_time: 2.1667
-    animation_time: 2
-    animation_time: 0
-    evolution_pips: 1
-    pokedex_height_m: 1.7
-    pokedex_weight_kg: 316
-    parent_pokemon_id: GRAVELER
-    height_std_dev: 0.2125
-    weight_std_dev: 39.5
-    family_id: FAMILY_GEODUDE
-    km_buddy_distance: 1
-    buddy_size: BUDDY_BIG
-    model_height: 1.5
-  }
-}
-item_templates {
-  template_id: "V0076_POKEMON_GOLEM_NORMAL"
   pokemon_settings {
     pokemon_id: GOLEM
     model_scale: 0.84
@@ -21776,137 +19495,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "V0088_POKEMON_GRIMER_ALOLA"
-  pokemon_settings {
-    pokemon_id: GRIMER
-    model_scale: 0.98
-    type: POKEMON_TYPE_POISON
-    type_2: POKEMON_TYPE_DARK
-    camera {
-      disk_radius_m: 0.882
-      cylinder_radius_m: 0.75
-      cylinder_height_m: 1.1
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.5
-      base_flee_rate: 0.1
-      collision_radius_m: 0.49
-      collision_height_m: 0.83300012
-      collision_head_radius_m: 0.294
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 23
-      jump_time_s: 1
-      attack_timer_s: 8
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 4.4100008
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 160
-      base_attack: 135
-      base_defense: 90
-    }
-    quick_moves: POISON_JAB_FAST
-    quick_moves: BITE_FAST
-    cinematic_moves: CRUNCH
-    cinematic_moves: GUNK_SHOT
-    cinematic_moves: SLUDGE_BOMB
-    animation_time: 1.6667
-    animation_time: 0.6667
-    animation_time: 1.6667
-    animation_time: 1.6667
-    animation_time: 10
-    animation_time: 1.6667
-    animation_time: 2.6667
-    animation_time: 0
-    evolution_ids: MUK
-    evolution_pips: 1
-    pokedex_height_m: 0.7
-    pokedex_weight_kg: 42
-    height_std_dev: 0.0875
-    weight_std_dev: 5.25
-    family_id: FAMILY_GRIMER
-    candy_to_evolve: 50
-    km_buddy_distance: 3
-    buddy_size: BUDDY_BIG
-    model_height: 1.05
-    evolution_branch {
-      evolution: MUK
-      candy_cost: 50
-    }
-  }
-}
-item_templates {
-  template_id: "V0088_POKEMON_GRIMER_NORMAL"
-  pokemon_settings {
-    pokemon_id: GRIMER
-    model_scale: 0.98
-    type: POKEMON_TYPE_POISON
-    camera {
-      disk_radius_m: 0.882
-      cylinder_radius_m: 0.75
-      cylinder_height_m: 1.1
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.5
-      base_flee_rate: 0.1
-      collision_radius_m: 0.49
-      collision_height_m: 0.83300012
-      collision_head_radius_m: 0.294
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 23
-      jump_time_s: 1
-      attack_timer_s: 8
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 4.4100008
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 160
-      base_attack: 135
-      base_defense: 90
-    }
-    quick_moves: POISON_JAB_FAST
-    quick_moves: MUD_SLAP_FAST
-    cinematic_moves: SLUDGE
-    cinematic_moves: MUD_BOMB
-    cinematic_moves: SLUDGE_BOMB
-    animation_time: 1.6667
-    animation_time: 0.6667
-    animation_time: 1.6667
-    animation_time: 1.6667
-    animation_time: 10
-    animation_time: 1.6667
-    animation_time: 2.6667
-    animation_time: 0
-    evolution_ids: MUK
-    evolution_pips: 1
-    pokedex_height_m: 0.9
-    pokedex_weight_kg: 30
-    height_std_dev: 0.1125
-    weight_std_dev: 3.75
-    family_id: FAMILY_GRIMER
-    candy_to_evolve: 50
-    km_buddy_distance: 3
-    buddy_size: BUDDY_BIG
-    model_height: 1.05
-    evolution_branch {
-      evolution: MUK
-      candy_cost: 50
-    }
-  }
-}
-item_templates {
   template_id: "V0089_MOVE_CROSS_POISON"
   move_settings {
     movement_id: CROSS_POISON
@@ -21927,131 +19515,6 @@ item_templates {
 }
 item_templates {
   template_id: "V0089_POKEMON_MUK"
-  pokemon_settings {
-    pokemon_id: MUK
-    model_scale: 0.76
-    type: POKEMON_TYPE_POISON
-    camera {
-      disk_radius_m: 1.14
-      cylinder_radius_m: 1.5
-      cylinder_height_m: 1.5
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.2
-      base_flee_rate: 0.06
-      collision_radius_m: 0.76
-      collision_height_m: 0.57
-      collision_head_radius_m: 0.38
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 8
-      jump_time_s: 1.25
-      attack_timer_s: 3
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 6.45
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 210
-      base_attack: 190
-      base_defense: 184
-    }
-    quick_moves: INFESTATION_FAST
-    quick_moves: POISON_JAB_FAST
-    cinematic_moves: DARK_PULSE
-    cinematic_moves: GUNK_SHOT
-    cinematic_moves: SLUDGE_WAVE
-    animation_time: 2
-    animation_time: 1
-    animation_time: 1.6667
-    animation_time: 2.1667
-    animation_time: 10
-    animation_time: 2
-    animation_time: 2.6667
-    animation_time: 0
-    evolution_pips: 1
-    pokedex_height_m: 1.2
-    pokedex_weight_kg: 30
-    parent_pokemon_id: GRIMER
-    height_std_dev: 0.15
-    weight_std_dev: 3.75
-    family_id: FAMILY_GRIMER
-    km_buddy_distance: 3
-    buddy_size: BUDDY_BIG
-    model_height: 1.88
-  }
-}
-item_templates {
-  template_id: "V0089_POKEMON_MUK_ALOLA"
-  pokemon_settings {
-    pokemon_id: MUK
-    model_scale: 0.76
-    type: POKEMON_TYPE_POISON
-    type_2: POKEMON_TYPE_DARK
-    camera {
-      disk_radius_m: 1.14
-      cylinder_radius_m: 1.5
-      cylinder_height_m: 1.5
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.2
-      base_flee_rate: 0.06
-      collision_radius_m: 0.76
-      collision_height_m: 0.57
-      collision_head_radius_m: 0.38
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 8
-      jump_time_s: 1.25
-      attack_timer_s: 3
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 6.45
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 210
-      base_attack: 190
-      base_defense: 184
-    }
-    quick_moves: BITE_FAST
-    quick_moves: POISON_JAB_FAST
-    cinematic_moves: DARK_PULSE
-    cinematic_moves: GUNK_SHOT
-    cinematic_moves: SLUDGE_WAVE
-    animation_time: 2
-    animation_time: 1
-    animation_time: 1.6667
-    animation_time: 2.1667
-    animation_time: 10
-    animation_time: 2
-    animation_time: 2.6667
-    animation_time: 0
-    evolution_pips: 1
-    pokedex_height_m: 1
-    pokedex_weight_kg: 52
-    parent_pokemon_id: GRIMER
-    height_std_dev: 0.125
-    weight_std_dev: 6.5
-    family_id: FAMILY_GRIMER
-    km_buddy_distance: 3
-    buddy_size: BUDDY_BIG
-    model_height: 1.88
-  }
-}
-item_templates {
-  template_id: "V0089_POKEMON_MUK_NORMAL"
   pokemon_settings {
     pokemon_id: MUK
     model_scale: 0.76
@@ -23274,7 +20737,7 @@ item_templates {
     pokedex_height_m: 10.9
     pokedex_weight_kg: 415.6
     parent_pokemon_id: EXEGGCUTE
-    height_std_dev: 1.375
+    height_std_dev: 1.3625
     weight_std_dev: 51.95
     family_id: FAMILY_EXEGGCUTE
     km_buddy_distance: 3
@@ -23449,129 +20912,6 @@ item_templates {
 }
 item_templates {
   template_id: "V0105_POKEMON_MAROWAK"
-  pokemon_settings {
-    pokemon_id: MAROWAK
-    model_scale: 1
-    type: POKEMON_TYPE_GROUND
-    camera {
-      disk_radius_m: 0.525
-      cylinder_radius_m: 0.4
-      cylinder_height_m: 1
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.15
-      base_flee_rate: 0.06
-      collision_radius_m: 0.25
-      collision_height_m: 0.75
-      collision_head_radius_m: 0.25
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 14
-      jump_time_s: 0.85
-      attack_timer_s: 5
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 3.2
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 120
-      base_attack: 144
-      base_defense: 200
-    }
-    quick_moves: MUD_SLAP_FAST
-    quick_moves: ROCK_SMASH_FAST
-    cinematic_moves: BONE_CLUB
-    cinematic_moves: DIG
-    cinematic_moves: EARTHQUAKE
-    animation_time: 2
-    animation_time: 0.6667
-    animation_time: 1.6667
-    animation_time: 1.5
-    animation_time: 0
-    animation_time: 2
-    animation_time: 1.4
-    animation_time: 0
-    evolution_pips: 1
-    pokedex_height_m: 1
-    pokedex_weight_kg: 45
-    parent_pokemon_id: CUBONE
-    height_std_dev: 0.125
-    weight_std_dev: 5.625
-    family_id: FAMILY_CUBONE
-    km_buddy_distance: 3
-    model_height: 1
-  }
-}
-item_templates {
-  template_id: "V0105_POKEMON_MAROWAK_ALOLA"
-  pokemon_settings {
-    pokemon_id: MAROWAK
-    model_scale: 1
-    type: POKEMON_TYPE_FIRE
-    type_2: POKEMON_TYPE_GHOST
-    camera {
-      disk_radius_m: 0.525
-      cylinder_radius_m: 0.4
-      cylinder_height_m: 1
-      shoulder_mode_scale: 0.5
-    }
-    encounter {
-      base_capture_rate: 0.15
-      base_flee_rate: 0.06
-      collision_radius_m: 0.25
-      collision_height_m: 0.75
-      collision_head_radius_m: 0.25
-      movement_type: MOVEMENT_JUMP
-      movement_timer_s: 14
-      jump_time_s: 0.85
-      attack_timer_s: 5
-      bonus_candy_capture_reward: 2
-      bonus_stardust_capture_reward: 200
-      attack_probability: 0.1
-      dodge_probability: 0.15
-      dodge_duration_s: 1
-      dodge_distance: 1
-      camera_distance: 3.2
-      min_pokemon_action_frequency_s: 0.2
-      max_pokemon_action_frequency_s: 1.6
-    }
-    stats {
-      base_stamina: 120
-      base_attack: 144
-      base_defense: 200
-    }
-    quick_moves: HEX_FAST
-    quick_moves: ROCK_SMASH_FAST
-    cinematic_moves: BONE_CLUB
-    cinematic_moves: SHADOW_BALL
-    cinematic_moves: FIRE_BLAST
-    animation_time: 2
-    animation_time: 0.6667
-    animation_time: 1.6667
-    animation_time: 1.5
-    animation_time: 0
-    animation_time: 2
-    animation_time: 1.4
-    animation_time: 0
-    evolution_pips: 1
-    pokedex_height_m: 1
-    pokedex_weight_kg: 34
-    parent_pokemon_id: CUBONE
-    height_std_dev: 0.125
-    weight_std_dev: 4.25
-    family_id: FAMILY_CUBONE
-    km_buddy_distance: 3
-    model_height: 1
-  }
-}
-item_templates {
-  template_id: "V0105_POKEMON_MAROWAK_NORMAL"
   pokemon_settings {
     pokemon_id: MAROWAK
     model_scale: 1
@@ -56830,4 +54170,4 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1531490166248
+timestamp_ms: 1530893979031
