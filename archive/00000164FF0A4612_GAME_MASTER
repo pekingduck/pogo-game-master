@@ -201,7 +201,6 @@ group_hair8@jf_group_hair{
 AVATAR_f_shirt_tshirt_cycling_2ª™"f_shirt_tshirt_bundle*f_shirt_tshirt_cycling_22group_shirt8T@Z*pgorelease.avatar.f_shirt_tshirt_cycling_2j"f_shirt_tshirt_cycling_bundle_icon¾
 AVATAR_f_shirt_tshirt_cycling_3ª™"f_shirt_tshirt_bundle*f_shirt_tshirt_cycling_32group_shirt8U@Z*pgorelease.avatar.f_shirt_tshirt_cycling_3j"f_shirt_tshirt_cycling_bundle_icon«
 'AVATAR_f_shirt_tshirt_fest_chicago_2017ª"f_shirt_tshirt_bundle* f_shirt_tshirt_fest_chicago_20172group_shirt8>@j,f_shirt_tshirt_fest_chicago_2017_bundle_icon«
-'AVATAR_f_shirt_tshirt_fest_chicago_2018ª"f_shirt_tshirt_bundle* f_shirt_tshirt_fest_chicago_20182group_shirt80@j,f_shirt_tshirt_fest_chicago_2018_bundle_icon«
 'AVATAR_f_shirt_tshirt_global_goals_2017ª"f_shirt_tshirt_bundle* f_shirt_tshirt_global_goals_20172group_shirt8=@j,f_shirt_tshirt_global_goals_2017_bundle_icon¾
 AVATAR_f_shirt_tshirt_pikachu_0ª™"f_shirt_tshirt_bundle*f_shirt_tshirt_pikachu_02group_shirt8?@Z*pgorelease.avatar.f_shirt_tshirt_pikachu_0j"f_shirt_tshirt_pikachu_bundle_icon¾
 AVATAR_f_shirt_tshirt_pikachu_1ª™"f_shirt_tshirt_bundle*f_shirt_tshirt_pikachu_12group_shirt8A@Z*pgorelease.avatar.f_shirt_tshirt_pikachu_1j"f_shirt_tshirt_pikachu_bundle_icon¾
@@ -401,8 +400,7 @@ $AVATAR_m_shirt_longsleeves_pikachu_2ª¬"m_shirt_longsleeves_bundle*m_sh
 "AVATAR_m_shirt_sweatshirt_streak_4ª¥"m_shirt_sweatshirt_bundle*m_shirt_sweatshirt_streak_42group_shirt8ø	@Z-pgorelease.avatar.m_shirt_sweatshirt_streak_4j%m_shirt_sweatshirt_streak_bundle_icon³
 AVATAR_m_shirt_teamrocket_0ª’"m_shirt_teamrocket_bundle*m_shirt_teamrocket_02group_shirt8Ø	@Z&pgorelease.avatar.m_shirt_teamrocket_0j m_shirt_teamrocket_0_bundle_icon³
 AVATAR_m_shirt_teamrocket_1ª’"m_shirt_teamrocket_bundle*m_shirt_teamrocket_12group_shirt8Ù	@Z&pgorelease.avatar.m_shirt_teamrocket_1j m_shirt_teamrocket_1_bundle_iconª
-'AVATAR_m_shirt_tshirt_fest_chicago_2017ª~"m_shirt_tshirt_bundle* m_shirt_tshirt_fest_chicago_20172group_shirt8Ş	@j,m_shirt_tshirt_fest_chicago_2017_bundle_iconª
-'AVATAR_m_shirt_tshirt_fest_chicago_2018ª~"m_shirt_tshirt_bundle* m_shirt_tshirt_fest_chicago_20182group_shirt8Ï	@j,m_shirt_tshirt_fest_chicago_2018_bundle_iconÅ
+'AVATAR_m_shirt_tshirt_fest_chicago_2017ª~"m_shirt_tshirt_bundle* m_shirt_tshirt_fest_chicago_20172group_shirt8Ş	@j,m_shirt_tshirt_fest_chicago_2017_bundle_iconÅ
 !AVATAR_m_shirt_tshirt_geometric_0ª"m_shirt_tshirt_bundle*m_shirt_tshirt_geometric_02group_shirt8í	@Z,pgorelease.avatar.m_shirt_tshirt_geometric_0j$m_shirt_tshirt_geometric_bundle_iconÅ
 !AVATAR_m_shirt_tshirt_geometric_1ª"m_shirt_tshirt_bundle*m_shirt_tshirt_geometric_12group_shirt8î	@Z,pgorelease.avatar.m_shirt_tshirt_geometric_1j$m_shirt_tshirt_geometric_bundle_iconÅ
 !AVATAR_m_shirt_tshirt_geometric_2ª"m_shirt_tshirt_bundle*m_shirt_tshirt_geometric_22group_shirt8ï	@Z,pgorelease.avatar.m_shirt_tshirt_geometric_2j$m_shirt_tshirt_geometric_bundle_iconª
@@ -460,17 +458,7 @@ $AVATAR_m_shirt_longsleeves_pikachu_2ª¬"m_shirt_longsleeves_bundle*m_sh
 AVATAR_m_socks_default_3ª_	"m_socks_default_bundle*m_socks_default_32group_socks8§
 @jm_socks_default_bundle_iconp
 AVATAR_m_socks_emptyªW	"m_socks_empty_bundle*m_socks_empty2group_socks8«
-@jm_socks_empty_bundle_icon,
-BADGE_APAC_PARTNER_JULY_2018_1R
-Ûd(,
-BADGE_APAC_PARTNER_JULY_2018_2R
-Üd(,
-BADGE_APAC_PARTNER_JULY_2018_3R
-İd(,
-BADGE_APAC_PARTNER_JULY_2018_4R
-Şd(,
-BADGE_APAC_PARTNER_JULY_2018_5R
-ßd(%
+@jm_socks_empty_bundle_icon%
 BADGE_BATTLE_ATTACK_WONR
 
 dè'
@@ -919,8 +907,8 @@ dè
 FORMS_V0323_POKEMON_CAMERUPT²Ã#
 FORMS_V0324_POKEMON_TORKOAL²Ä"
 FORMS_V0325_POKEMON_SPOINK²Å#
-FORMS_V0326_POKEMON_GRUMPIG²ÆR
-FORMS_V0327_POKEMON_SPINDA²3Ç%&'()*+,$
+FORMS_V0326_POKEMON_GRUMPIG²Æ"
+FORMS_V0327_POKEMON_SPINDA²Ç$
 FORMS_V0328_POKEMON_TRAPINCH²È#
 FORMS_V0329_POKEMON_VIBRAVA²É"
 FORMS_V0330_POKEMON_FLYGON²Ê"
@@ -1064,8 +1052,7 @@ R
 ì  €?ÍÌÌ=
 ITEM_X_ATTACK	Ú(d
 ITEM_X_DEFENSE	Û(d
-ITEM_X_MIRACLE	Ü(d 
-LUCKY_POKEMON_SETTINGS‚   ?ê
+ITEM_X_MIRACLE	Ü(dê
 PLAYER_LEVEL_SETTINGSbĞ
 ({ è¸ğ.N˜uˆ¤àÚ ™ÈßØ­èûøÉˆ˜ À©àÅ€â	¨¥Ğè ï˜¹¸Æ€—"ğª+ ÷6à‘Cğ²RĞÚd€‰z Ë˜À·ğğä°õ¡€›îàáÉàêÃ€¶ÜÀÃ“€ÚÄ	 ƒÀ=4d*>ùè\>½í‚>¢›”>˜e¤>Ì²>áÀ>”Ì>ìQØ>şŞâ>éóì>iŸö>ríÿ>îs?rË?À ?Ó?;?5ï?W¶?´f ?Õ$?‰'?¹ı*?Ó`.?f³1?]ö4?Š*8?±P;?vŞ<?üh>?Wğ??›tA?ÙõB?$tD?ïE?#hG?øİH?QJ? (8<
 +POKEMON_SCALE_SETTINGS_BATTLE_POKEMON_SCALEÚR¸>33‹@1
@@ -2758,7 +2745,7 @@ W? 2{?  €?  À?-   ?:UÍÌL=ÍÌL=333?%Ãõh?-š™?0=  0AEš™™?M   APXÈeÍÌÌ=
 ×#?úR¸A  ğÁ  ÈÂ‚R¸A  ğÁ  ÈÂ  ˜AZ
 V0251_MOVE_WILD_CHARGE"@û%  ´B-  €?5ÍÌL=E
 ×#=HPdZwild_charge`¨h¤p´xÎÿÿÿÿÿÿÿÿš
-V0251_POKEMON_CELEBIûš™™? (2{?ÍÌÌ>š™?%UUÕ>-   ?:K  ÈB  €>%š™?-  €>0=  0AEÍÌŒ?M   AeÍÌÌ=mš™>u  €?}  €?…®G@ÍÌL>•ÍÌÌ?B	ÈÒÒJëùRlVZ “©ª?Ú¬*?mVÕ?   @       @  @@  @@hp}ö(?…   @•ö(œ=   ?¨û½   AÍff&?İ  €?ú    …ë
+V0251_POKEMON_CELEBIûš™™? (2{?ÍÌÌ>š™?%UUÕ>-   ?:K  ÈB  €>%š™?-  €>0=  0AEÍÌŒ?M   AeÍÌÌ=mš™>u  €?}  €?…®G@ÍÌL>•ÍÌÌ?B	ÈÒÒJëùRlVZ “©ª?Ú¬*?mVÕ?   @       @  @@  @@hp}ö(?…   @•ö(œ=   ?¨û½   @Íff&?İ  €?ú    …ë
 B¤pı¿‚    …ë
 B¤pı¿  ˜AX
 V0252_MOVE_ZAP_CANNON"?ü%  C-  €?5ÍÌL=E
@@ -2948,8 +2935,7 @@ blast_burn`äh¾p€xÎÿÿÿÿÿÿÿÿŸ
 V0298_POKEMON_AZURILL…ª33Ó? (2{?š™™>ÍÌÌ>-   ?:PÍÌÌ=
 ×#=  €>%š™?-  €>0=  0AEÍÌŒ?M   AeÍÌÌ=mš™>u  €?}  €?…   @ÍÌL>•ÍÌÌ?Bd$GJçíR5'ƒZ “©ª?Ú¬*?mVÕ?   @       @  @@  @@h}ÍÌL>…   @•ÍÌÌ<  €>¨·½  @@ÍR¸>Ò·İ®G¡?ú            ‚              PA\
 V0299_MOVE_HYDRO_CANNON"A«%  ´B-  €?5ÍÌL=E¸…=HPdZhydro_cannon`ìhôpÀxÎÿÿÿÿÿÿÿÿš
-V0299_POKEMON_NOSEPASSÿ«  €? 2{?ÍÌL?š™™?-   ?:PÍÌL>ìQ¸=  €>%š™?-  €>0=  0AEÍÌŒ?M   AeÍÌÌ=mš™>u  €?}  €?…  €@ÍÌL>•ÍÌÌ?B<RìJãÎRƒ@OZ “©ª?Ú¬*?mVÕ?   @       @  @@  @@h}¤p}?…  ÂB•¤pı=  BA¨«½  @@ÀÍ  €?İ  €?ú   A      ‚B‚   A      ‚B  ˜AZ
-V0300_MOVE_LAST_RESORT"@¬%  ´B-  €?5ÍÌL=E¸…=HPdZlast_resort`ÔhŒp¢xÎÿÿÿÿÿÿÿÿœ
+V0299_POKEMON_NOSEPASSÿ«  €? 2{?ÍÌL?š™™?-   ?:PÍÌL>ìQ¸=  €>%š™?-  €>0=  0AEÍÌŒ?M   AeÍÌÌ=mš™>u  €?}  €?…  €@ÍÌL>•ÍÌÌ?B<RìJãÎRƒ@OZ “©ª?Ú¬*?mVÕ?   @       @  @@  @@h}¤p}?…  ÂB•¤pı=  BA¨«½  @@ÀÍ  €?İ  €?ú   A      ‚B‚   A      ‚B  ˜Aœ
 V0300_POKEMON_SKITTYƒ¬   ? 2{?   ?ÍÌL?-   ?:P   ?ÍÌÌ=  €>%š™?-  €>0=  0AEÍÌŒ?M   AeÍÌÌ=mš™>u  €?}  €?…  @@ÍÌL>•ÍÌÌ?BdTTJîİRTûZ “©ª?Ú¬*?mVÕ?   @       @  @@  @@h}ö(?…  0A•ö(œ=  °?¨¬½  @@Íš™?Ò­2İ  €?ú            ‚              ˜A¥
 V0301_POKEMON_DELCATTYŠ­ÍÌŒ? 2{?ÍÌL?  €?-   ?:UÍÌL>Âu=  €>%ÍÌL?-  €>0=  0AEÍÌŒ?M   APXÈeÍÌL>mš™>u  €?}  €?…  €@ÍÌL>•ÍÌÌ?B	Œ„„JîêRXTûZ “©ª?Ú¬*?mVÕ?   @       @  @@  @@h}…‹?…ffBˆ¬•…>ff‚@¨¬½  @@ÀÍUU¡?İ  €?ú   A       B‚   A       B  ˜A™
 V0302_POKEMON_SABLEYEÿ®ÍÌ¬? (2{?   ?   ?-   ?:PÍÌL>)\=š™>%š™?-  €>0=  0AEÍÌŒ?M   Aeš™™>mš™>u  €?}  €?…®G@ÍÌL>•ÍÌÌ?BdJÕîRA˜BZ “©ª?Ú¬*?mVÕ?   @       @  @@  @@h}\?…  0A•\‚=  °?¨®½   @Í   ?İ  €?ú            ‚              ˜A—
@@ -4203,14 +4189,6 @@ Fvfx attacker hydro_pump_cannon:Origin/Waist/RFeelerA/RFeelerB/RFeelerC
 sfx attacker 002-0_karate_chop
 	wait 0.25
 sys ui-sync
-sys complete
-sequence_last_resort*x
-anim attacker atk-move
-wait 0.5
-vfx last_resort
-sfx attacker 384-0_last_resort
-wait 1.5
-sys ui-sync
 sys complete™
 sequence_leaf_blade*
 anim attacker atk-move
@@ -5138,4 +5116,4 @@ $vfx attacker solar_beam_charge_waist
 sfx attacker 442-0_iron_head
 	wait 0.25
 sys ui-sync
-sys completeÆæ™îÙ,
+sys complete’Œ©øÏ,

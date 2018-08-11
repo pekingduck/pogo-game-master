@@ -2305,20 +2305,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "AVATAR_f_shirt_tshirt_fest_chicago_2018"
-  avatar_customization {
-    enabled: true
-    avatar_type: PLAYER_AVATAR_FEMALE
-    slot: SHIRT
-    bundle_name: "f_shirt_tshirt_bundle"
-    asset_name: "f_shirt_tshirt_fest_chicago_2018"
-    group_name: "group_shirt"
-    sort_order: 48
-    unlock_type: DEFAULT
-    icon_name: "f_shirt_tshirt_fest_chicago_2018_bundle_icon"
-  }
-}
-item_templates {
   template_id: "AVATAR_f_shirt_tshirt_global_goals_2017"
   avatar_customization {
     enabled: true
@@ -4401,19 +4387,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "AVATAR_m_shirt_tshirt_fest_chicago_2018"
-  avatar_customization {
-    enabled: true
-    slot: SHIRT
-    bundle_name: "m_shirt_tshirt_bundle"
-    asset_name: "m_shirt_tshirt_fest_chicago_2018"
-    group_name: "group_shirt"
-    sort_order: 1231
-    unlock_type: DEFAULT
-    icon_name: "m_shirt_tshirt_fest_chicago_2018_bundle_icon"
-  }
-}
-item_templates {
   template_id: "AVATAR_m_shirt_tshirt_geometric_0"
   avatar_customization {
     enabled: true
@@ -4903,51 +4876,6 @@ item_templates {
     sort_order: 1323
     unlock_type: DEFAULT
     icon_name: "m_socks_empty_bundle_icon"
-  }
-}
-item_templates {
-  template_id: "BADGE_APAC_PARTNER_JULY_2018_1"
-  badge_settings {
-    badge_type: 2011
-    badge_rank: 2
-    targets: 100
-    event_badge: true
-  }
-}
-item_templates {
-  template_id: "BADGE_APAC_PARTNER_JULY_2018_2"
-  badge_settings {
-    badge_type: 2012
-    badge_rank: 2
-    targets: 100
-    event_badge: true
-  }
-}
-item_templates {
-  template_id: "BADGE_APAC_PARTNER_JULY_2018_3"
-  badge_settings {
-    badge_type: 2013
-    badge_rank: 2
-    targets: 100
-    event_badge: true
-  }
-}
-item_templates {
-  template_id: "BADGE_APAC_PARTNER_JULY_2018_4"
-  badge_settings {
-    badge_type: 2014
-    badge_rank: 2
-    targets: 100
-    event_badge: true
-  }
-}
-item_templates {
-  template_id: "BADGE_APAC_PARTNER_JULY_2018_5"
-  badge_settings {
-    badge_type: 2015
-    badge_rank: 2
-    targets: 100
-    event_badge: true
   }
 }
 item_templates {
@@ -7658,38 +7586,6 @@ item_templates {
   template_id: "FORMS_V0327_POKEMON_SPINDA"
   form_settings {
     pokemon: SPINDA
-    forms {
-      form: 37
-      asset_bundle_value: 11
-    }
-    forms {
-      form: 38
-      asset_bundle_value: 12
-    }
-    forms {
-      form: 39
-      asset_bundle_value: 13
-    }
-    forms {
-      form: 40
-      asset_bundle_value: 14
-    }
-    forms {
-      form: 41
-      asset_bundle_value: 15
-    }
-    forms {
-      form: 42
-      asset_bundle_value: 16
-    }
-    forms {
-      form: 43
-      asset_bundle_value: 17
-    }
-    forms {
-      form: 44
-      asset_bundle_value: 18
-    }
   }
 }
 item_templates {
@@ -8633,9 +8529,6 @@ item_templates {
     category: ITEM_CATEGORY_BOOST
     drop_trainer_level: 100
   }
-}
-item_templates {
-  template_id: "LUCKY_POKEMON_SETTINGS"
 }
 item_templates {
   template_id: "PLAYER_LEVEL_SETTINGS"
@@ -34501,7 +34394,7 @@ item_templates {
     height_std_dev: 0.07625
     weight_std_dev: 0.625
     family_id: FAMILY_CELEBI
-    km_buddy_distance: 20
+    km_buddy_distance: 5
     model_height: 0.65
   }
 }
@@ -38425,25 +38318,6 @@ item_templates {
     km_buddy_distance: 3
     buddy_size: BUDDY_BIG
     model_height: 1
-  }
-}
-item_templates {
-  template_id: "V0300_MOVE_LAST_RESORT"
-  move_settings {
-    movement_id: 300
-    animation_id: 5
-    pokemon_type: POKEMON_TYPE_NORMAL
-    power: 90
-    accuracy_chance: 1
-    critical_chance: 0.05
-    stamina_loss_scalar: 0.065
-    trainer_level_min: 1
-    trainer_level_max: 100
-    vfx_name: "last_resort"
-    duration_ms: 2900
-    damage_window_start_ms: 2700
-    damage_window_end_ms: 2850
-    energy_delta: -50
   }
 }
 item_templates {
@@ -55817,18 +55691,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "sequence_last_resort"
-  move_sequence_settings {
-    sequence: "anim attacker atk-move"
-    sequence: "wait 0.5"
-    sequence: "vfx last_resort"
-    sequence: "sfx attacker 384-0_last_resort"
-    sequence: "wait 1.5"
-    sequence: "sys ui-sync"
-    sequence: "sys complete"
-  }
-}
-item_templates {
   template_id: "sequence_leaf_blade"
   move_sequence_settings {
     sequence: "anim attacker atk-move"
@@ -57202,4 +57064,4 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1535950353222
+timestamp_ms: 1533287220754

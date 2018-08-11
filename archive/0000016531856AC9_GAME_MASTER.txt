@@ -38428,25 +38428,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "V0300_MOVE_LAST_RESORT"
-  move_settings {
-    movement_id: 300
-    animation_id: 5
-    pokemon_type: POKEMON_TYPE_NORMAL
-    power: 90
-    accuracy_chance: 1
-    critical_chance: 0.05
-    stamina_loss_scalar: 0.065
-    trainer_level_min: 1
-    trainer_level_max: 100
-    vfx_name: "last_resort"
-    duration_ms: 2900
-    damage_window_start_ms: 2700
-    damage_window_end_ms: 2850
-    energy_delta: -50
-  }
-}
-item_templates {
   template_id: "V0300_POKEMON_SKITTY"
   pokemon_settings {
     pokemon_id: SKITTY
@@ -55817,18 +55798,6 @@ item_templates {
   }
 }
 item_templates {
-  template_id: "sequence_last_resort"
-  move_sequence_settings {
-    sequence: "anim attacker atk-move"
-    sequence: "wait 0.5"
-    sequence: "vfx last_resort"
-    sequence: "sfx attacker 384-0_last_resort"
-    sequence: "wait 1.5"
-    sequence: "sys ui-sync"
-    sequence: "sys complete"
-  }
-}
-item_templates {
   template_id: "sequence_leaf_blade"
   move_sequence_settings {
     sequence: "anim attacker atk-move"
@@ -57202,4 +57171,4 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1535950353222
+timestamp_ms: 1534134151881
